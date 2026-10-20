@@ -1,8 +1,9 @@
 # Lumen Fork
 
-A fork of https://github.com/ammar027/lumen-webos, fixing one central issue:
+A fork of https://github.com/ammar027/lumen-webos with the following two changes:
 
-- Slowdown when moving to the second row
+- slowdown when sliding to the second row of the dock is fixed
+- you can now search for a location that will be used in the weather widget
 
 ## Installation
 
