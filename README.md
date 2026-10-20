@@ -4,7 +4,12 @@ A fork of https://github.com/ammar027/lumen-webos, fixing one central issue:
 
 - Slowdown when moving to the second row
 
-# How to make your TV boot into Lumen
+## Installation
+
+This fork is standalone. Installing the original Lumen beforehand is not necessary.
+An .ipk will be provided soon.
+
+## How to make your TV boot into Lumen
 
 The command you have to send via Terminal (webos dev manager can do that) is
 
