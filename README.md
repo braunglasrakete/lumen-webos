@@ -7,8 +7,8 @@ A fork of https://github.com/ammar027/lumen-webos with the following two changes
 
 ## Installation
 
+Install the .ipk available in the Releases section.
 This fork is standalone. Installing the original Lumen beforehand is not necessary.
-An .ipk will be provided soon.
 
 ## How to make your TV boot into Lumen
 
