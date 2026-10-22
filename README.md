@@ -7,6 +7,8 @@ A fork of https://github.com/ammar027/lumen-webos with the following changes:
 - alternative control center layout with toggle in settings
 - bigger time and weather widget with toggle in settings
 
+Next release will fix all translations as well as the three top row buttons appearing white when using dark mode.
+
 ## Installation
 
 Install the .ipk available in the Releases section.
