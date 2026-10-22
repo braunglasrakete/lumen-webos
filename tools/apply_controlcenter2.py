@@ -546,7 +546,7 @@ s = open(P('src/theme/global.css')).read()
 s += r"""
 /* ---------- New Control Center (components/ControlCenterNew.tsx), from samrenfrew/lumen-webos (MIT): no panel, each control its own piece of glass ---------- */
 .panel-backdrop--clear { background: none; }
-/* :root lifts this above html.liveblur.light .panel, which would paint a light panel behind the controls */
+/* :root lifts this above the light panel rules */
 html:root body .panel.panel--cn {
 	--cn-u: 90px; --cn-gap: 18px; --cn-on: rgb(64, 196, 255);
 	background: none !important; box-shadow: none !important; -webkit-backdrop-filter: none !important; backdrop-filter: none !important;
@@ -564,10 +564,6 @@ html:root body .panel.panel--cn {
 	transition: transform var(--motion-focus-ms) ease-out;
 }
 .cn__mod--focused { transform: scale(1.1); background-image: linear-gradient(145deg, rgba(255, 255, 255, 0.50), rgba(255, 255, 255, 0.20) 55%, rgba(255, 255, 255, 0.34)), var(--wp-blur, var(--glass-fallback)); }
-html.liveblur .cn__mod {
-	-webkit-backdrop-filter: var(--live-glass); backdrop-filter: var(--live-glass);
-	background-attachment: scroll !important; background-color: var(--live-tint) !important; background-blend-mode: normal !important;
-}
 .cn__mod svg { position: static; width: 44px; height: 44px; fill: none; stroke: rgba(255, 255, 255, 0.9); stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
 .cn__mod--on svg { stroke: var(--cn-on); }
 
@@ -620,7 +616,6 @@ html.light .cn__morph__text { text-shadow: none; }
 /* light look: the top buttons' light glass, and focus turns dark as theirs does */
 html.light .cn__mod { color: #14151b; text-shadow: none; background-color: rgb(120, 128, 148); background-blend-mode: normal, screen; box-shadow: inset 0 0 0 1.5px rgba(255, 255, 255, 0.8), 0 4px 12px rgba(20, 24, 40, 0.12); }
 html.light.wp-video .cn__mod { background-color: transparent; background-blend-mode: normal; }
-html.liveblur.light .cn__mod { background-color: rgba(255, 255, 255, 0.34) !important; }
 html.light .cn__mod svg { stroke: rgba(20, 22, 32, 0.72); }
 html.light .cn__mod--on svg { stroke: rgb(0, 122, 255); }
 html.light body .panel--cn .cn__mod--focused:not(.cn__slider) { background: #14151b !important; color: #fff; box-shadow: 0 8px 18px rgba(20, 24, 40, 0.30); }
@@ -665,4 +660,5 @@ sub('src/app.tsx', [
  ("import {ControlCenter, type CenterAction} from './components/ControlCenter';\n", "import {ControlCenter, type CenterAction} from './components/ControlCenter';\nimport {ControlCenterNew} from './components/ControlCenterNew';\n"),
  (OLD, NEW),
  (RET, PROPS + RET),
+ ("topItems={TOP_ITEMS}", "topItems={config.newControlCenter ? [{key: MISC.settings, label: 'Settings', glyph: 'gear'}, ...TOP_ITEMS] : TOP_ITEMS}"),
 ])
