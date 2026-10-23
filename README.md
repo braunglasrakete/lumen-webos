@@ -9,7 +9,7 @@ A fork of https://github.com/ammar027/lumen-webos with the following changes:
 
 ## Compatibility
 
-Tested on a rooted LG C3 77" with Webos 9. Compatibility on other models, earlier or later Webos versions is not guaranteed. 
+Tested on a rooted LG C3 77" with Webos 24. Compatibility on other models, earlier or later Webos versions is not guaranteed. 
 
 ## Installation
 
