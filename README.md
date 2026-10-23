@@ -21,3 +21,13 @@ The command you have to send via Terminal (webos dev manager can do that) is
 This will add Lumen as a selectable input in LG's home menu. If you set your TV to go straight to last input after switching it on, it'll go directly into the launcher when turning it on. Nothing can be broken by this. It will not replace the default launcher, it will just add homebrew as an input.
 
 If you additionally want to map the launcher to the home button on your remote, use lginputhook and map your home button to `com.ammar027.lumen`.
+
+## Screenshots
+
+![Main menu with the dock, big clock, date and weather](screenshots/1-home.png?raw=true "Main menu")
+![Second row of apps](screenshots/2-home-second-row.png?raw=true "Second row of apps")
+![New Control Center](screenshots/3-control-center.png?raw=true "Control Center")
+![Settings: Apps](screenshots/4-settings-apps.png?raw=true "Settings: Apps")
+![Settings: Sources](screenshots/5-settings-sources.png?raw=true "Settings: Sources")
+![Settings: Wallpaper](screenshots/6-settings-wallpaper.png?raw=true "Settings: Wallpaper")
+![Settings: Options](screenshots/7-settings-options.png?raw=true "Settings: Options")
