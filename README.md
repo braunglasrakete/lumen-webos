@@ -7,6 +7,10 @@ A fork of https://github.com/ammar027/lumen-webos with the following changes:
 - alternative control center layout with toggle in settings
 - bigger time and weather widget with toggle in settings
 
+## Compatibility
+
+Tested on a rooted LG C3 77" with Webos 9. Compatibility on other models, earlier or later Webos versions is not guaranteed. 
+
 ## Installation
 
 Install the .ipk available in the Releases section.
