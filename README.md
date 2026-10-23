@@ -25,9 +25,9 @@ If you additionally want to map the launcher to the home button on your remote, 
 ## Screenshots
 
 ![Main menu with the dock, big clock, date and weather](screenshots/1-home.png "Main menu")
-![Second row of apps](screenshots/2-home-second-row.png?raw=true "Second row of apps")
-![New Control Center](screenshots/3-control-center.png?raw=true "Control Center")
-![Settings: Apps](screenshots/4-settings-apps.png?raw=true "Settings: Apps")
-![Settings: Sources](screenshots/5-settings-sources.png?raw=true "Settings: Sources")
-![Settings: Wallpaper](screenshots/6-settings-wallpaper.png?raw=true "Settings: Wallpaper")
-![Settings: Options](screenshots/7-settings-options.png?raw=true "Settings: Options")
+![Second row of apps](screenshots/2-home-second-row.png "Second row of apps")
+![New Control Center](screenshots/3-control-center.png "Control Center")
+![Settings: Apps](screenshots/4-settings-apps.png "Settings: Apps")
+![Settings: Sources](screenshots/5-settings-sources.png "Settings: Sources")
+![Settings: Wallpaper](screenshots/6-settings-wallpaper.png "Settings: Wallpaper")
+![Settings: Options](screenshots/7-settings-options.png "Settings: Options")
