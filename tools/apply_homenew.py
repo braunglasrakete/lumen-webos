@@ -139,15 +139,15 @@ html.homenew .screen > .pill.status .status__icon { width: 36px; height: 36px; m
 html.homenew .status__cond { margin-left: 12px; font-weight: 500; }
 
 /* ---------- tiles lit from above, as on tvOS: a soft shadow under each tile, and over its artwork a light from the top left (20 degrees
-   off vertical) fading out by the middle, a bright top rim, a fainter left one and a faint dark bottom edge. All static (no animation), drawn once per tile. */
-html.homenew .rows .tile__box { box-shadow: 0 8px 16px rgba(0, 0, 0, 0.26), 0 2px 4px rgba(0, 0, 0, 0.16); }
+   off vertical) fading out by the middle, a bright top rim, a fainter left one and a faint dark bottom edge. All static (no animation), drawn once per tile. Kept light on purpose (one soft shadow, one rim, no blur wider than 30px): every tile is painted again when the stack is lifted for the slide to the second row. */
+html.homenew .rows .tile__box { box-shadow: 0 6px 12px rgba(0, 0, 0, 0.26); }
 html.homenew .rows .tile__box::before {
 	content: ''; position: absolute; left: 0; top: 0; right: 0; bottom: 0; z-index: 1; border-radius: inherit; pointer-events: none;
 	background: linear-gradient(160deg, rgba(255, 255, 255, 0.20) 0%, rgba(255, 255, 255, 0.06) 30%, rgba(255, 255, 255, 0) 55%, rgba(0, 0, 0, 0.08) 100%);
-	box-shadow: inset 0 2px 1px -1px rgba(255, 255, 255, 0.55), inset 2px 0 1px -1px rgba(255, 255, 255, 0.28), inset 0 -2px 1px -1px rgba(0, 0, 0, 0.18);
+	box-shadow: inset 0 2px 1px -1px rgba(255, 255, 255, 0.55);
 }
-html.homenew .rows .row .tile--focused .tile__box { box-shadow: 0 26px 40px rgba(0, 0, 0, 0.42), 0 8px 14px rgba(0, 0, 0, 0.22); }
-html.homenew .rows > .row:first-child .tile--focused .tile__box { box-shadow: 0 12px 22px rgba(0, 0, 0, 0.32), 0 3px 6px rgba(0, 0, 0, 0.18); }
+html.homenew .rows .row .tile--focused .tile__box { box-shadow: 0 20px 30px rgba(0, 0, 0, 0.42); }
+html.homenew .rows > .row:first-child .tile--focused .tile__box { box-shadow: 0 10px 18px rgba(0, 0, 0, 0.32); }
 html.homenew .rows .tile--focused .tile__box::after { z-index: 2; }
 
 /* a stronger focus: the grid's tiles grow 1.175x, the dock's 1.1x (it keeps clear of the dock bar's edge) */
