@@ -1,0 +1,165 @@
+import {useEffect, useRef, useState} from 'preact/hooks';
+import {PhotoSaver} from './PhotoSaver';
+import {langLocale, getClockMode} from '../lib/i18n';
+import {LOCAL_WALLPAPERS} from '../config/wallpapers';
+import {timeParts} from '../lib/clock';
+import {useTimeFormat} from '../hooks/useTimeFormat';
+
+/** A StandBy mode for the TV, after Apple's StandBy (iOS 17 on): a full-screen face you leave on, and Left and Right change the face. Faces: Digital, Float, Analog, Solar (the clock
+ *  styles of StandBy), Photos, Weather, and Fade and Flow (slow animated colour, named after the faces found in iOS 27.1). Up and Down change the colour; at night Night Mode dims
+ *  the screen and turns the figures red, as StandBy does in a dark room. OK or Back returns to the home screen. */
+export const FACES = ['digital', 'analog', 'calendar', 'solar', 'photos', 'weather', 'fade', 'flow'];
+export const FACE_NAMES: Record<string, string> = {digital: 'Digital', analog: 'Analog', calendar: 'Clock and Calendar', solar: 'Solar', photos: 'Photos', weather: 'Weather', fade: 'Fade', flow: 'Flow'};
+export const COLORS = ['white', 'red', 'orange', 'yellow', 'green', 'blue', 'purple', 'pink'];
+export const COLOR_NAMES: Record<string, string> = {white: 'White', red: 'Red', orange: 'Orange', yellow: 'Yellow', green: 'Green', blue: 'Blue', purple: 'Purple', pink: 'Pink'};
+const COLOR_CSS: Record<string, string> = {white: '#ffffff', red: '#ff453a', orange: '#ff9f0a', yellow: '#ffd60a', green: '#30d158', blue: '#0a84ff', purple: '#bf5af2', pink: '#ff6ca8'};
+const NIGHT_CSS = '#ff2d1f';
+const LAST_FACE_KEY = 'lumen-standby-face-v1';
+
+const dateText = () => { try { return new Date().toLocaleDateString(langLocale(), {weekday: 'long', month: 'long', day: 'numeric'}); } catch { return new Date().toDateString(); } };
+
+/** The time, re-read every 15 seconds. */
+function useNow (): Date {
+	const [now, setNow] = useState(() => new Date());
+	useEffect(() => { const id = window.setInterval(() => setNow(new Date()), 15000); return () => window.clearInterval(id); }, []);
+	return now;
+}
+
+function useParts (now: Date): {h: string; m: string; hh: string; period: string} {
+	const tv = useTimeFormat();
+	const mode = getClockMode();
+	const p = timeParts(now, mode === '12h' || mode === '24h' ? mode : tv);
+	const [h, m] = p.time.split(':');
+	return {h, m, hh: h.length < 2 ? '0' + h : h, period: p.period || ''};
+}
+
+/** Night Mode: on, off, or auto (dark between 7 pm and 6 am). */
+function isNight (mode: string, now: Date): boolean {
+	return mode === 'on' || (mode === 'auto' && (now.getHours() >= 19 || now.getHours() < 6));
+}
+
+// --- Analog: as in StandBy: a plain black dial, numerals, ticks, thick white hands and a thin orange second hand ---
+function Analog ({now, small, night}: {now: Date; small?: boolean; night: boolean}) {
+	const h = (now.getHours() % 12) * 30 + now.getMinutes() * 0.5, m = now.getMinutes() * 6 + now.getSeconds() * 0.1;
+	// the second hand turns once a minute from where it is now (transform only; it ticks like a quartz watch)
+	const sec = now.getSeconds();
+	return (
+		<svg class={small ? 'sb__analog sb__analog--small' : 'sb__analog'} viewBox="-100 -100 200 200" aria-hidden="true">
+			{Array.from({length: 60}, (_, i) => i % 5 !== 0 && <line key={i} x1="0" y1="-93" x2="0" y2="-97" class="sb__tick sb__tick--minor" transform={`rotate(${i * 6})`} />)}
+			{Array.from({length: 12}, (_, i) => <line key={'h' + i} x1="0" y1="-84" x2="0" y2="-97" class="sb__tick" transform={`rotate(${i * 30})`} />)}
+			{Array.from({length: 12}, (_, i) => { const a = ((i + 1) * 30 * Math.PI) / 180; return <text key={'n' + i} x={Math.sin(a) * 68} y={-Math.cos(a) * 68 + 8} class="sb__num" text-anchor="middle">{i + 1}</text>; })}
+			<line x1="0" y1="10" x2="0" y2="-46" class="sb__hand sb__hand--h" transform={`rotate(${h})`} />
+			<line x1="0" y1="12" x2="0" y2="-76" class="sb__hand sb__hand--m" transform={`rotate(${m})`} />
+			<g class="sb__second" style={`animation-delay:-${sec}s`}><line x1="0" y1="24" x2="0" y2="-84" class="sb__secline" /><circle r="5.5" class="sb__hub" /></g>
+			{night && <circle r="1.6" class="sb__pin" />}
+		</svg>
+	);
+}
+
+/** A month grid, Sunday first, today in a red circle (StandBy's Calendar widget). */
+function Calendar ({now, night}: {now: Date; night: boolean}) {
+	let month = '';
+	try { month = now.toLocaleDateString(langLocale(), {month: 'long'}).toUpperCase(); } catch { month = ''; }
+	const first = new Date(now.getFullYear(), now.getMonth(), 1).getDay();
+	const days = new Date(now.getFullYear(), now.getMonth() + 1, 0).getDate();
+	const cells: (number | null)[] = [];
+	for (let i = 0; i < first; i++) cells.push(null);
+	for (let d = 1; d <= days; d++) cells.push(d);
+	while (cells.length % 7) cells.push(null);
+	let head: string[] = ['S', 'M', 'T', 'W', 'T', 'F', 'S'];
+	try { head = Array.from({length: 7}, (_, i) => new Date(2023, 0, 1 + i).toLocaleDateString(langLocale(), {weekday: 'narrow'})); } catch { /* English initials */ }
+	return (
+		<div class={`sb__cal${night ? ' sb__cal--night' : ''}`}>
+			<div class="sb__month">{month}</div>
+			<div class="sb__grid">
+				{head.map((d, i) => <span key={'w' + i} class="sb__wd">{d}</span>)}
+				{cells.map((d, i) => <span key={i} class={`sb__day${d === now.getDate() ? ' sb__day--today' : ''}${i % 7 === 0 || i % 7 === 6 ? ' sb__day--weekend' : ''}`}>{d || ''}</span>)}
+			</div>
+		</div>
+	);
+}
+
+/** Solar: a black dial with a flare of the chosen colour that follows the sun's hour across the bottom of the screen. */
+function solarFlare (now: Date): number {
+	const t = now.getHours() + now.getMinutes() / 60;
+	return Math.min(1, Math.max(0, (t - 5) / 15));
+}
+
+interface PhotoProps {source: string; favorites: string[]; picks: string[]; seconds: number; print: boolean; backlight?: number}
+
+/** What a face draws, from the time, colour and night setting: shared by the real screen and the small preview in Settings. */
+function StandByScreen ({name, now, color, night, weatherText, showPeriod, photoProps, preview, onExit}: {
+	name: string; now: Date; color: number; night: string; weatherText?: string; showPeriod?: boolean; photoProps?: PhotoProps; preview?: boolean; onExit?: () => void;
+}) {
+	const {m, hh, period} = useParts(now);
+	const dark = isNight(night, now);
+	const tint = dark ? NIGHT_CSS : COLOR_CSS[COLORS[color]];
+	// the weather line is 'Place · 30° Clear' (the place may be missing)
+	const wm = /^(?:(.*?) · )?(-?\d+)° ?(.*)$/.exec(weatherText || '');
+	const place = wm && wm[1] ? wm[1] : '', temp = wm ? wm[2] : '', label = wm ? wm[3] : '';
+	const sub = dateText() + (weatherText ? ` · ${weatherText}` : '');
+	const flare = name === 'solar' ? solarFlare(now) : 0;
+	return (
+		<div class={`sb sb--${name}${dark ? ' sb--night' : ''}${preview ? ' sb--preview' : ''}`} style={`--sb:${name === 'solar' && !dark && color === 0 ? '#ffb020' : tint};--flare:${(flare * 100).toFixed(1)}%`}>
+			{name === 'photos' && !preview && photoProps && <PhotoSaver {...photoProps} embedded weatherText={weatherText} showPeriod={showPeriod} onExit={onExit || (() => undefined)} />}
+			{name === 'photos' && preview && <div class="sb__sample" style={`background-image:url("${LOCAL_WALLPAPERS[0] ? LOCAL_WALLPAPERS[0].file : ''}")`}><div class="sb__corner"><span class="sb__time sb__time--small">{hh}<span class="sb__colon">:</span>{m}</span><span class="sb__sub">{sub}</span></div></div>}
+			{(name === 'fade' || name === 'flow') && <div class="sb__sky"><i class="sb__blob sb__blob--a" /><i class="sb__blob sb__blob--b" /><i class="sb__blob sb__blob--c" /></div>}
+			{name === 'solar' && <div class="sb__flare" />}
+			{name === 'digital' && <div class="sb__center"><div class="sb__time">{hh}<span class="sb__colon">:</span>{m}{showPeriod && period && <span class="sb__period">{period}</span>}</div><div class="sb__sub">{sub}</div></div>}
+			{name === 'solar' && <div class="sb__center"><div class="sb__time sb__time--light">{hh}<span class="sb__colon">:</span>{m}</div><div class="sb__sub">{sub}</div></div>}
+			{name === 'analog' && <div class="sb__center"><Analog now={now} night={dark} /></div>}
+			{name === 'calendar' && <div class="sb__center sb__center--row"><Analog now={now} small night={dark} /><Calendar now={now} night={dark} /></div>}
+			{name === 'weather' && <div class="sb__center"><div class="sb__place">{place}</div><div class="sb__temp">{temp ? `${temp}°` : '—'}</div><div class="sb__cond">{label}</div><div class="sb__sub">{dateText()} · {hh}:{m}</div></div>}
+			{(name === 'fade' || name === 'flow') && <div class="sb__corner"><span class="sb__time sb__time--small">{hh}<span class="sb__colon">:</span>{m}</span><span class="sb__sub">{sub}</span></div>}
+			{dark && <div class="sb__night" />}
+			{!preview && <div class="sb__hint">{FACE_NAMES[name]} · ◀ ▶ face · ▲ ▼ colour · OK exit</div>}
+		</div>
+	);
+}
+
+/** The face (and the colour) a StandBy setting names, for a preview: 'last' is the face used last. */
+export function faceOf (face: string): string {
+	if (face !== 'last') return FACES.indexOf(face) >= 0 ? face : 'digital';
+	try { const f = localStorage.getItem(LAST_FACE_KEY) || 'digital'; return FACES.indexOf(f) >= 0 ? f : 'digital'; } catch { return 'digital'; }
+}
+
+/** A small, live StandBy screen for Settings (a 16:9 box in the glyph's place): the real faces drawn at full size and scaled down. */
+export function StandByPreview ({face, color, night, weatherText, showPeriod}: {face: string; color: string; night: string; weatherText?: string; showPeriod?: boolean}) {
+	const now = useNow();
+	return <div class="sbp"><div class="sbp__scale"><StandByScreen name={faceOf(face)} now={now} color={Math.max(0, COLORS.indexOf(color))} night={night} weatherText={weatherText} showPeriod={showPeriod} preview /></div></div>;
+}
+
+/** The StandBy screen. `photoProps` carry the photo screensaver's settings for the Photos face. */
+export function StandBy ({face0, color0, night, weatherText, showPeriod, photoProps, onFace, onColor, onExit}: {
+	face0: string; color0: string; night: string; weatherText?: string; showPeriod?: boolean; photoProps: PhotoProps;
+	onFace?: (face: string) => void; onColor?: (color: string) => void; onExit: () => void;
+}) {
+	const now = useNow();
+	const [face, setFace] = useState(Math.max(0, FACES.indexOf(faceOf(face0))));
+	const [color, setColor] = useState(COLORS.indexOf(color0) >= 0 ? COLORS.indexOf(color0) : 0);
+	const live = useRef({face, color});
+	live.current = {face, color};
+
+	useEffect(() => {
+		const key = (e: KeyboardEvent) => {
+			e.preventDefault(); e.stopPropagation();
+			const c = e.keyCode;
+			if (c === 37 || c === 39) {
+				const next = (live.current.face + (c === 39 ? 1 : FACES.length - 1)) % FACES.length;
+				setFace(next);
+				try { localStorage.setItem(LAST_FACE_KEY, FACES[next]); } catch { /* no storage */ }
+				if (onFace) onFace(FACES[next]);
+			} else if (c === 38 || c === 40) {
+				const next = (live.current.color + (c === 40 ? 1 : COLORS.length - 1)) % COLORS.length;
+				setColor(next);
+				if (onColor) onColor(COLORS[next]);
+			} else onExit();
+		};
+		const click = (e: Event) => { e.preventDefault(); onExit(); };
+		window.addEventListener('keydown', key, true);
+		window.addEventListener('mousedown', click, true);
+		return () => { window.removeEventListener('keydown', key, true); window.removeEventListener('mousedown', click, true); };
+	}, []);
+
+	return <StandByScreen name={FACES[face]} now={now} color={color} night={night} weatherText={weatherText} showPeriod={showPeriod} photoProps={photoProps} onExit={onExit} />;
+}

@@ -2,10 +2,9 @@
 
 A fork of https://github.com/ammar027/lumen-webos with the following changes:
 
-- slowdown when sliding to the second row of the dock is fixed
-- you can now search for a location that will be used in the weather widget
-- alternative control center layout with toggle in settings
-- bigger time and weather widget with toggle in settings
+- smooth, GPU-only slide between the rows (no blur swap on the lower row)
+- weather place search by city or postcode
+- all option texts and descriptions translated (de, es, fr, it, pt, nl, tr, hi)
 
 ## Compatibility
 

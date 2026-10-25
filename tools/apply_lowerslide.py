@@ -43,9 +43,9 @@ h = h.replace(a, r"""	const rowIndex = clamp(n.rowIndex, 0, Math.max(0, rows.len
 		});
 	}, [sliding]);
 	const overlay =""", 1)
-b = "${n.dockHidden ? ' screen--dockhidden' : ''}`}>"
+b = "${dockDim ? ' screen--dockdim' : ''}`}>"
 assert h.count(b) == 1
-h = h.replace(b, "${n.dockHidden ? ' screen--dockhidden' : ''}${sliding}`}>", 1)
+h = h.replace(b, "${dockDim ? ' screen--dockdim' : ''}${sliding}`}>", 1)
 open(P('src/screens/Home.tsx'), 'w').write(h)
 
 s = open(P('src/theme/global.css')).read()
