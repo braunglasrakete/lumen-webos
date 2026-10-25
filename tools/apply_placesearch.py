@@ -8,9 +8,11 @@ APP = os.path.expanduser('~/Developer/webos-launcher-tvos/app')
 def P(p): return os.path.join(APP, p)
 def sub(p, pairs):
     s = open(P(p)).read()
-    for a, b in pairs:
-        assert s.count(a) == 1, (p, s.count(a), a[:90])
-        s = s.replace(a, b, 1)
+    for pair in pairs:
+        a, b = pair[0], pair[1]
+        want = pair[2] if len(pair) > 2 else 1   # how often the text must occur (and is replaced)
+        assert s.count(a) == want, (p, s.count(a), a[:90])
+        s = s.replace(a, b)
     open(P(p), 'w').write(s)
 
 # ---------------------------------------------------------------- the stored place
@@ -24,8 +26,7 @@ sub('src/lib/storage.ts', [
   "				: null,\n"),
 ])
 
-# two places with the same name must not share one cached reading
-sub('src/lib/weather.ts', [("const key = 'launcher-weather-v2-' + (city ? city.name : 'auto');", "const key = 'launcher-weather-v2-' + (city ? city.name + '@' + city.lat + ',' + city.lon : 'auto');")])
+# (the original's weather cache key already carries the coordinates, so two places with the same name do not share a reading)
 
 # ---------------------------------------------------------------- the search screen
 open(P('src/components/PlaceSearch.tsx'), 'w').write(r"""import {useCallback, useEffect, useRef, useState} from 'preact/hooks';
@@ -214,9 +215,10 @@ sub('src/app.tsx', [
   "		},\n"),
  ("config.showAllApps, config.showWeather, config.weatherCity]);", "config.showAllApps, config.showWeather, config.weatherCity, config.weatherPlace]);"),
  # stepping through the lists drops a typed place
- ("updateConfig({...config, weatherCountry: next, weatherCity: first ? first.cities[0].name : ''});", "updateConfig({...config, weatherCountry: next, weatherCity: first ? first.cities[0].name : '', weatherPlace: null});"),
- ("updateConfig({...config, weatherCity: next, weatherCountry: country ? country.code : owner ? owner.code : ''});", "updateConfig({...config, weatherCity: next, weatherCountry: country ? country.code : owner ? owner.code : '', weatherPlace: null});"),
- ("		else if (optionId === OPTION.nightDim)", "		else if (optionId === OPTION.placeSearch) setPlaceSearch(true);\n		else if (optionId === OPTION.nightDim)"),
+ ("updateConfig({...config, weatherCountry: next, weatherCity: first ? first.cities[0].name : ''});", "updateConfig({...config, weatherCountry: next, weatherCity: first ? first.cities[0].name : '', weatherPlace: null});", 2),
+ ("updateConfig({...config, weatherCity: next, weatherCountry: country ? country.code : owner ? owner.code : ''});", "updateConfig({...config, weatherCity: next, weatherCountry: country ? country.code : owner ? owner.code : '', weatherPlace: null});", 2),
+ ("[OPTION.city]: 'weather',", "[OPTION.city]: 'weather', [OPTION.placeSearch]: 'weather',"),
+ ("		if (optionId === OPTION.useHomebrew) updateConfig(", "		if (optionId === OPTION.placeSearch) setPlaceSearch(true);\n		else if (optionId === OPTION.useHomebrew) updateConfig("),
  ("options={options} active onToggle={onToggle}", "options={options} active={!placeSearch} onToggle={onToggle}"),
  ("			{controls && <ControlCenter", """			{placeSearch && <PlaceSearch
 				lang={config.language === 'auto' ? (navigator.language || 'en').slice(0, 2).toLowerCase() : config.language.slice(0, 2).toLowerCase()}

@@ -1,0 +1,2172 @@
+{
+"My favorites": [
+"Meine Favoriten",
+"Mis favoritos",
+"Mes favoris",
+"I miei preferiti",
+"Os meus favoritos",
+"Mijn favorieten",
+"Favorilerim",
+"मेरे पसंदीदा"
+],
+"Art": [
+"Kunst",
+"Arte",
+"Art",
+"Arte",
+"Arte",
+"Kunst",
+"Sanat",
+"कला"
+],
+"Art (paintings)": [
+"Kunst (Gemälde)",
+"Arte (pinturas)",
+"Art (peintures)",
+"Arte (dipinti)",
+"Arte (pinturas)",
+"Kunst (schilderijen)",
+"Sanat (resimler)",
+"कला (चित्र)"
+],
+"Landscapes": [
+"Landschaften",
+"Paisajes",
+"Paysages",
+"Paesaggi",
+"Paisagens",
+"Landschappen",
+"Manzaralar",
+"प्राकृतिक दृश्य"
+],
+"Everything": [
+"Alles",
+"Todo",
+"Tout",
+"Tutto",
+"Tudo",
+"Alles",
+"Hepsi",
+"सब कुछ"
+],
+"Shuffle (all of it, mixed)": [
+"Zufall (alles gemischt)",
+"Aleatorio (todo mezclado)",
+"Aléatoire (tout mélangé)",
+"Casuale (tutto mescolato)",
+"Aleatório (tudo misturado)",
+"Willekeurig (alles gemengd)",
+"Karışık (hepsi karışık)",
+"शफल (सब कुछ मिलाकर)"
+],
+"My ticked pictures": [
+"Meine markierten Bilder",
+"Mis imágenes marcadas",
+"Mes images cochées",
+"Le mie immagini selezionate",
+"As minhas imagens marcadas",
+"Mijn aangevinkte afbeeldingen",
+"İşaretlediğim resimler",
+"मेरी चुनी हुई तस्वीरें"
+],
+"Down arrow": [
+"Pfeil nach unten",
+"Flecha abajo",
+"Flèche bas",
+"Freccia giù",
+"Seta para baixo",
+"Pijl omlaag",
+"Aşağı ok",
+"नीचे तीर"
+],
+"After idle": [
+"Bei Inaktivität",
+"Tras inactividad",
+"Après inactivité",
+"Dopo inattività",
+"Após inatividade",
+"Na inactiviteit",
+"Boşta kalınca",
+"निष्क्रिय होने पर"
+],
+"Both": [
+"Beides",
+"Ambos",
+"Les deux",
+"Entrambi",
+"Ambos",
+"Beide",
+"İkisi de",
+"दोनों"
+],
+"Not moved": [
+"Nicht verschoben",
+"Sin mover",
+"Non déplacé",
+"Non spostato",
+"Sem mover",
+"Niet verplaatst",
+"Taşınmadı",
+"खिसकाया नहीं"
+],
+"Bottom left": [
+"Unten links",
+"Abajo a la izquierda",
+"En bas à gauche",
+"In basso a sinistra",
+"Em baixo à esquerda",
+"Linksonder",
+"Sol alt",
+"नीचे बाएं"
+],
+"Bottom centre": [
+"Unten Mitte",
+"Abajo al centro",
+"En bas au centre",
+"In basso al centro",
+"Em baixo ao centro",
+"Midden onder",
+"Alt orta",
+"नीचे बीच में"
+],
+"Bottom right": [
+"Unten rechts",
+"Abajo a la derecha",
+"En bas à droite",
+"In basso a destra",
+"Em baixo à direita",
+"Rechtsonder",
+"Sağ alt",
+"नीचे दाएं"
+],
+"Top left": [
+"Oben links",
+"Arriba a la izquierda",
+"En haut à gauche",
+"In alto a sinistra",
+"Em cima à esquerda",
+"Linksboven",
+"Sol üst",
+"ऊपर बाएं"
+],
+"Top centre": [
+"Oben Mitte",
+"Arriba al centro",
+"En haut au centre",
+"In alto al centro",
+"Em cima ao centro",
+"Midden boven",
+"Üst orta",
+"ऊपर बीच में"
+],
+"Top right": [
+"Oben rechts",
+"Arriba a la derecha",
+"En haut à droite",
+"In alto a destra",
+"Em cima à direita",
+"Rechtsboven",
+"Sağ üst",
+"ऊपर दाएं"
+],
+"Centre": [
+"Mitte",
+"Centro",
+"Centre",
+"Centro",
+"Centro",
+"Midden",
+"Orta",
+"बीच में"
+],
+"Recent Apps": [
+"Zuletzt verwendet",
+"Apps recientes",
+"Apps récentes",
+"App recenti",
+"Apps recentes",
+"Recente apps",
+"Son uygulamalar",
+"हाल के ऐप्स"
+],
+"Dim the wallpaper": [
+"Hintergrund abdunkeln",
+"Atenuar el fondo",
+"Assombrir le fond",
+"Scurisci lo sfondo",
+"Escurecer o fundo",
+"Achtergrond dimmen",
+"Duvar kâğıdını karart",
+"वॉलपेपर धुंधला करें"
+],
+"Always": [
+"Immer",
+"Siempre",
+"Toujours",
+"Sempre",
+"Sempre",
+"Altijd",
+"Her zaman",
+"हमेशा"
+],
+"At night": [
+"Nachts",
+"De noche",
+"La nuit",
+"Di notte",
+"À noite",
+"'s Nachts",
+"Geceleri",
+"रात में"
+],
+"Show recents indicator": [
+"Punkt für geöffnete Apps zeigen",
+"Mostrar indicador de recientes",
+"Afficher l'indicateur des récents",
+"Mostra indicatore dei recenti",
+"Mostrar indicador de recentes",
+"Recent-indicator tonen",
+"Son kullanılan göstergesini göster",
+"हाल के संकेतक दिखाएं"
+],
+"Live glass": [
+"Live-Glas",
+"Cristal en vivo",
+"Verre en direct",
+"Vetro dal vivo",
+"Vidro ao vivo",
+"Live glas",
+"Canlı cam",
+"लाइव ग्लास"
+],
+"Dock blur": [
+"Dock-Unschärfe",
+"Desenfoque del dock",
+"Flou du dock",
+"Sfocatura del dock",
+"Desfoque do dock",
+"Dock-vervaging",
+"Dock bulanıklığı",
+"डॉक ब्लर"
+],
+"Wallpaper type": [
+"Hintergrundtyp",
+"Tipo de fondo",
+"Type de fond",
+"Tipo di sfondo",
+"Tipo de fundo",
+"Achtergrondtype",
+"Duvar kâğıdı türü",
+"वॉलपेपर प्रकार"
+],
+"Pictures": [
+"Bilder",
+"Imágenes",
+"Images",
+"Immagini",
+"Imagens",
+"Afbeeldingen",
+"Resimler",
+"तस्वीरें"
+],
+"Video": [
+"Video",
+"Vídeo",
+"Vidéo",
+"Video",
+"Vídeo",
+"Video",
+"Video",
+"वीडियो"
+],
+"Immich photos": [
+"Immich-Fotos",
+"Fotos de Immich",
+"Photos Immich",
+"Foto di Immich",
+"Fotos do Immich",
+"Immich-foto's",
+"Immich fotoğrafları",
+"Immich फ़ोटो"
+],
+"Immich": [
+"Immich",
+"Immich",
+"Immich",
+"Immich",
+"Immich",
+"Immich",
+"Immich",
+"Immich"
+],
+"Plain": [
+"Einfarbig",
+"Liso",
+"Uni",
+"Semplice",
+"Simples",
+"Effen",
+"Düz",
+"सादा"
+],
+"New picture on startup": [
+"Neues Bild beim Start",
+"Imagen nueva al iniciar",
+"Nouvelle image au démarrage",
+"Nuova immagine all'avvio",
+"Nova imagem ao iniciar",
+"Nieuwe afbeelding bij opstarten",
+"Açılışta yeni resim",
+"शुरू होने पर नई तस्वीर"
+],
+"Focus highlight": [
+"Fokus-Hervorhebung",
+"Resaltado del foco",
+"Mise en valeur du focus",
+"Evidenziazione del focus",
+"Realce do foco",
+"Focusmarkering",
+"Odak vurgusu",
+"फ़ोकस हाइलाइट"
+],
+"Subtle": [
+"Dezent",
+"Sutil",
+"Discret",
+"Leggero",
+"Subtil",
+"Subtiel",
+"Hafif",
+"हल्का"
+],
+"Strong": [
+"Stark",
+"Fuerte",
+"Fort",
+"Forte",
+"Forte",
+"Sterk",
+"Güçlü",
+"तेज़"
+],
+"Normal": [
+"Normal",
+"Normal",
+"Normal",
+"Normale",
+"Normal",
+"Normaal",
+"Normal",
+"सामान्य"
+],
+"Hide app names": [
+"App-Namen ausblenden",
+"Ocultar nombres de apps",
+"Masquer les noms d'apps",
+"Nascondi i nomi delle app",
+"Ocultar nomes das apps",
+"App-namen verbergen",
+"Uygulama adlarını gizle",
+"ऐप के नाम छिपाएं"
+],
+"Apps per row": [
+"Apps pro Reihe",
+"Apps por fila",
+"Apps par rangée",
+"App per riga",
+"Apps por linha",
+"Apps per rij",
+"Satır başına uygulama",
+"प्रति पंक्ति ऐप्स"
+],
+"Reduce motion": [
+"Bewegung reduzieren",
+"Reducir movimiento",
+"Réduire les animations",
+"Riduci movimento",
+"Reduzir movimento",
+"Beweging beperken",
+"Hareketi azalt",
+"गति कम करें"
+],
+"Liquid glass dock": [
+"Liquid-Glass-Dock",
+"Dock de cristal líquido",
+"Dock en verre liquide",
+"Dock in vetro liquido",
+"Dock de vidro líquido",
+"Liquid-glass-dock",
+"Sıvı cam dock",
+"लिक्विड ग्लास डॉक"
+],
+"Brightness": [
+"Helligkeit",
+"Brillo",
+"Luminosité",
+"Luminosità",
+"Brilho",
+"Helderheid",
+"Parlaklık",
+"चमक"
+],
+"Apple TV defaults": [
+"Apple-TV-Standardwerte",
+"Valores de Apple TV",
+"Réglages Apple TV par défaut",
+"Impostazioni Apple TV predefinite",
+"Predefinições do Apple TV",
+"Apple TV-standaarden",
+"Apple TV varsayılanları",
+"Apple TV डिफ़ॉल्ट"
+],
+"Apply": [
+"Anwenden",
+"Aplicar",
+"Appliquer",
+"Applica",
+"Aplicar",
+"Toepassen",
+"Uygula",
+"लागू करें"
+],
+"Run setup again": [
+"Einrichtung erneut starten",
+"Repetir la configuración",
+"Relancer la configuration",
+"Ripeti la configurazione",
+"Repetir a configuração",
+"Installatie opnieuw uitvoeren",
+"Kurulumu yeniden çalıştır",
+"सेटअप फिर से चलाएं"
+],
+"Start": [
+"Starten",
+"Iniciar",
+"Démarrer",
+"Avvia",
+"Iniciar",
+"Starten",
+"Başlat",
+"शुरू करें"
+],
+"Clock style": [
+"Uhrstil",
+"Estilo del reloj",
+"Style de l'horloge",
+"Stile dell'orologio",
+"Estilo do relógio",
+"Klokstijl",
+"Saat stili",
+"घड़ी की शैली"
+],
+"Clock colour": [
+"Uhrfarbe",
+"Color del reloj",
+"Couleur de l'horloge",
+"Colore dell'orologio",
+"Cor do relógio",
+"Klokkleur",
+"Saat rengi",
+"घड़ी का रंग"
+],
+"Clock look": [
+"Uhr-Look",
+"Aspecto del reloj",
+"Aspect de l'horloge",
+"Aspetto dell'orologio",
+"Aspeto do relógio",
+"Kloklook",
+"Saat görünümü",
+"घड़ी का लुक"
+],
+"Frosted": [
+"Milchglas",
+"Esmerilado",
+"Dépoli",
+"Satinato",
+"Fosco",
+"Matglas",
+"Buzlu",
+"फ्रॉस्टेड"
+],
+"Solid": [
+"Einfarbig",
+"Sólido",
+"Plein",
+"Pieno",
+"Sólido",
+"Effen",
+"Düz",
+"ठोस"
+],
+"Stacked clock order": [
+"Reihenfolge der gestapelten Uhr",
+"Orden del reloj apilado",
+"Ordre de l'horloge empilée",
+"Ordine dell'orologio impilato",
+"Ordem do relógio empilhado",
+"Volgorde van de gestapelde klok",
+"Yığılı saat sırası",
+"स्टैक्ड घड़ी का क्रम"
+],
+"Time below": [
+"Uhrzeit unten",
+"Hora debajo",
+"Heure en dessous",
+"Ora sotto",
+"Hora por baixo",
+"Tijd eronder",
+"Saat altta",
+"समय नीचे"
+],
+"Time on top": [
+"Uhrzeit oben",
+"Hora arriba",
+"Heure au-dessus",
+"Ora sopra",
+"Hora por cima",
+"Tijd bovenaan",
+"Saat üstte",
+"समय ऊपर"
+],
+"Dim when the dock is hidden": [
+"Abdunkeln bei verstecktem Dock",
+"Atenuar con el dock oculto",
+"Assombrir quand le dock est masqué",
+"Scurisci con il dock nascosto",
+"Escurecer com o dock escondido",
+"Dimmen als het dock verborgen is",
+"Dock gizliyken karart",
+"डॉक छिपा होने पर धुंधला करें"
+],
+"Clock layout": [
+"Uhr-Layout",
+"Diseño del reloj",
+"Disposition de l'horloge",
+"Layout dell'orologio",
+"Disposição do relógio",
+"Klokindeling",
+"Saat düzeni",
+"घड़ी का लेआउट"
+],
+"Stacked": [
+"Gestapelt",
+"Apilado",
+"Empilé",
+"Impilato",
+"Empilhado",
+"Gestapeld",
+"Yığılı",
+"स्टैक्ड"
+],
+"One row": [
+"Eine Zeile",
+"Una fila",
+"Une ligne",
+"Una riga",
+"Uma linha",
+"Eén rij",
+"Tek satır",
+"एक पंक्ति"
+],
+"Clock size": [
+"Uhrgröße",
+"Tamaño del reloj",
+"Taille de l'horloge",
+"Dimensione dell'orologio",
+"Tamanho do relógio",
+"Klokgrootte",
+"Saat boyutu",
+"घड़ी का आकार"
+],
+"Small": [
+"Klein",
+"Pequeño",
+"Petit",
+"Piccolo",
+"Pequeno",
+"Klein",
+"Küçük",
+"छोटा"
+],
+"Large": [
+"Groß",
+"Grande",
+"Grand",
+"Grande",
+"Grande",
+"Groot",
+"Büyük",
+"बड़ा"
+],
+"Extra large": [
+"Extragroß",
+"Extragrande",
+"Très grand",
+"Extra large",
+"Extragrande",
+"Extra groot",
+"Çok büyük",
+"बहुत बड़ा"
+],
+"Huge": [
+"Riesig",
+"Enorme",
+"Énorme",
+"Enorme",
+"Enorme",
+"Enorm",
+"Devasa",
+"विशाल"
+],
+"Move clock sideways": [
+"Uhr seitlich verschieben",
+"Mover el reloj hacia los lados",
+"Déplacer l'horloge latéralement",
+"Sposta l'orologio di lato",
+"Mover o relógio para o lado",
+"Klok opzij verschuiven",
+"Saati yana kaydır",
+"घड़ी को बगल में खिसकाएं"
+],
+"Move clock up or down": [
+"Uhr nach oben oder unten verschieben",
+"Mover el reloj arriba o abajo",
+"Déplacer l'horloge vers le haut ou le bas",
+"Sposta l'orologio su o giù",
+"Mover o relógio para cima ou para baixo",
+"Klok omhoog of omlaag verschuiven",
+"Saati yukarı veya aşağı kaydır",
+"घड़ी को ऊपर या नीचे खिसकाएं"
+],
+"Clock weight": [
+"Uhr-Schriftstärke",
+"Grosor del reloj",
+"Épaisseur de l'horloge",
+"Spessore dell'orologio",
+"Espessura do relógio",
+"Klokdikte",
+"Saat kalınlığı",
+"घड़ी की मोटाई"
+],
+"Regular": [
+"Normal",
+"Normal",
+"Normal",
+"Normale",
+"Normal",
+"Normaal",
+"Normal",
+"सामान्य"
+],
+"Bold": [
+"Fett",
+"Negrita",
+"Gras",
+"Grassetto",
+"Negrito",
+"Vet",
+"Kalın",
+"बोल्ड"
+],
+"Clock position": [
+"Uhrposition",
+"Posición del reloj",
+"Position de l'horloge",
+"Posizione dell'orologio",
+"Posição do relógio",
+"Klokpositie",
+"Saat konumu",
+"घड़ी की स्थिति"
+],
+"Right": [
+"Rechts",
+"Derecha",
+"Droite",
+"Destra",
+"Direita",
+"Rechts",
+"Sağ",
+"दाएं"
+],
+"Left": [
+"Links",
+"Izquierda",
+"Gauche",
+"Sinistra",
+"Esquerda",
+"Links",
+"Sol",
+"बाएं"
+],
+"Show date": [
+"Datum anzeigen",
+"Mostrar fecha",
+"Afficher la date",
+"Mostra la data",
+"Mostrar data",
+"Datum tonen",
+"Tarihi göster",
+"तारीख दिखाएं"
+],
+"Clock size on photos": [
+"Uhrgröße auf Fotos",
+"Tamaño del reloj en fotos",
+"Taille de l'horloge sur les photos",
+"Dimensione dell'orologio sulle foto",
+"Tamanho do relógio nas fotos",
+"Klokgrootte op foto's",
+"Fotoğraflarda saat boyutu",
+"फ़ोटो पर घड़ी का आकार"
+],
+"Move photo clock sideways": [
+"Fotouhr seitlich verschieben",
+"Mover el reloj de fotos hacia los lados",
+"Déplacer l'horloge des photos latéralement",
+"Sposta l'orologio delle foto di lato",
+"Mover o relógio das fotos para o lado",
+"Fotoklok opzij verschuiven",
+"Fotoğraf saatini yana kaydır",
+"फ़ोटो घड़ी को बगल में खिसकाएं"
+],
+"Move photo clock up or down": [
+"Fotouhr nach oben oder unten verschieben",
+"Mover el reloj de fotos arriba o abajo",
+"Déplacer l'horloge des photos vers le haut ou le bas",
+"Sposta l'orologio delle foto su o giù",
+"Mover o relógio das fotos para cima ou para baixo",
+"Fotoklok omhoog of omlaag verschuiven",
+"Fotoğraf saatini yukarı veya aşağı kaydır",
+"फ़ोटो घड़ी को ऊपर या नीचे खिसकाएं"
+],
+"Date and weather on photos": [
+"Datum und Wetter auf Fotos",
+"Fecha y tiempo en fotos",
+"Date et météo sur les photos",
+"Data e meteo sulle foto",
+"Data e tempo nas fotos",
+"Datum en weer op foto's",
+"Fotoğraflarda tarih ve hava durumu",
+"फ़ोटो पर तारीख और मौसम"
+],
+"Clock look on photos": [
+"Uhr-Look auf Fotos",
+"Aspecto del reloj en fotos",
+"Aspect de l'horloge sur les photos",
+"Aspetto dell'orologio sulle foto",
+"Aspeto do relógio nas fotos",
+"Kloklook op foto's",
+"Fotoğraflarda saat görünümü",
+"फ़ोटो पर घड़ी का लुक"
+],
+"Photo blur": [
+"Foto-Unschärfe",
+"Desenfoque de fotos",
+"Flou des photos",
+"Sfocatura delle foto",
+"Desfoque das fotos",
+"Fotovervaging",
+"Fotoğraf bulanıklığı",
+"फ़ोटो ब्लर"
+],
+"Soft": [
+"Weich",
+"Suave",
+"Doux",
+"Morbido",
+"Suave",
+"Zacht",
+"Yumuşak",
+"हल्का"
+],
+"Restore settings from the TV": [
+"Einstellungen vom TV wiederherstellen",
+"Restaurar ajustes desde el TV",
+"Restaurer les réglages depuis le téléviseur",
+"Ripristina le impostazioni dal TV",
+"Restaurar definições a partir da TV",
+"Instellingen herstellen vanaf de tv",
+"Ayarları TV'den geri yükle",
+"टीवी से सेटिंग्स बहाल करें"
+],
+"Restore": [
+"Wiederherstellen",
+"Restaurar",
+"Restaurer",
+"Ripristina",
+"Restaurar",
+"Herstellen",
+"Geri yükle",
+"बहाल करें"
+],
+"Text size": [
+"Textgröße",
+"Tamaño del texto",
+"Taille du texte",
+"Dimensione del testo",
+"Tamanho do texto",
+"Tekstgrootte",
+"Metin boyutu",
+"टेक्स्ट का आकार"
+],
+"Recent photos from": [
+"Neueste Fotos aus",
+"Fotos recientes de",
+"Photos récentes depuis",
+"Foto recenti da",
+"Fotos recentes de",
+"Recente foto's van",
+"Şuradan son fotoğraflar",
+"हाल की फ़ोटो"
+],
+"Last month": [
+"Letzter Monat",
+"Último mes",
+"Dernier mois",
+"Ultimo mese",
+"Último mês",
+"Afgelopen maand",
+"Geçen ay",
+"पिछला महीना"
+],
+"Last 3 months": [
+"Letzte 3 Monate",
+"Últimos 3 meses",
+"3 derniers mois",
+"Ultimi 3 mesi",
+"Últimos 3 meses",
+"Laatste 3 maanden",
+"Son 3 ay",
+"पिछले 3 महीने"
+],
+"Last 6 months": [
+"Letzte 6 Monate",
+"Últimos 6 meses",
+"6 derniers mois",
+"Ultimi 6 mesi",
+"Últimos 6 meses",
+"Laatste 6 maanden",
+"Son 6 ay",
+"पिछले 6 महीने"
+],
+"Last year": [
+"Letztes Jahr",
+"Último año",
+"Dernière année",
+"Ultimo anno",
+"Último ano",
+"Afgelopen jaar",
+"Geçen yıl",
+"पिछला साल"
+],
+"As the TV is set": [
+"Wie am TV eingestellt",
+"Según el TV",
+"Comme sur le téléviseur",
+"Come impostato sul TV",
+"Como definido na TV",
+"Zoals op de tv ingesteld",
+"TV'deki gibi",
+"टीवी के अनुसार"
+],
+"Dim": [
+"Gedimmt",
+"Tenue",
+"Faible",
+"Basso",
+"Reduzido",
+"Gedimd",
+"Loş",
+"धीमा"
+],
+"Very dim": [
+"Sehr gedimmt",
+"Muy tenue",
+"Très faible",
+"Molto basso",
+"Muito reduzido",
+"Zeer gedimd",
+"Çok loş",
+"बहुत धीमा"
+],
+"Larger": [
+"Größer",
+"Más grande",
+"Plus grand",
+"Più grande",
+"Maior",
+"Groter",
+"Daha büyük",
+"और बड़ा"
+],
+"Lumen Gallery or LG": [
+"Lumen Gallery oder LG",
+"Lumen Gallery o LG",
+"Lumen Gallery ou LG",
+"Lumen Gallery o LG",
+"Lumen Gallery ou LG",
+"Lumen Gallery of LG",
+"Lumen Gallery veya LG",
+"Lumen Gallery या LG"
+],
+"Photos in Lumen": [
+"Fotos in Lumen",
+"Fotos en Lumen",
+"Photos dans Lumen",
+"Foto in Lumen",
+"Fotos no Lumen",
+"Foto's in Lumen",
+"Lumen'de fotoğraflar",
+"Lumen में फ़ोटो"
+],
+"StandBy": [
+"StandBy",
+"StandBy",
+"StandBy",
+"StandBy",
+"StandBy",
+"StandBy",
+"StandBy",
+"StandBy"
+],
+"Aerials": [
+"Luftaufnahmen",
+"Aéreos",
+"Vues aériennes",
+"Riprese aeree",
+"Aéreas",
+"Luchtopnamen",
+"Hava görüntüleri",
+"हवाई दृश्य"
+],
+"Last used": [
+"Zuletzt verwendet",
+"Último usado",
+"Dernier utilisé",
+"Ultimo usato",
+"Último utilizado",
+"Laatst gebruikt",
+"Son kullanılan",
+"आखिरी इस्तेमाल"
+],
+"Screensaver after idle": [
+"Bildschirmschoner bei Inaktivität",
+"Salvapantallas tras inactividad",
+"Économiseur après inactivité",
+"Screensaver dopo inattività",
+"Protetor de ecrã após inatividade",
+"Schermbeveiliging na inactiviteit",
+"Boşta kalınca ekran koruyucu",
+"निष्क्रियता के बाद स्क्रीनसेवर"
+],
+"Screensaver type": [
+"Art des Bildschirmschoners",
+"Tipo de salvapantallas",
+"Type d'économiseur",
+"Tipo di screensaver",
+"Tipo de protetor de ecrã",
+"Type schermbeveiliging",
+"Ekran koruyucu türü",
+"स्क्रीनसेवर प्रकार"
+],
+"Photos": [
+"Fotos",
+"Fotos",
+"Photos",
+"Foto",
+"Fotos",
+"Foto's",
+"Fotoğraflar",
+"फ़ोटो"
+],
+"Time on each photo": [
+"Zeit pro Foto",
+"Tiempo por foto",
+"Durée par photo",
+"Tempo per foto",
+"Tempo por foto",
+"Tijd per foto",
+"Fotoğraf başına süre",
+"प्रति फ़ोटो समय"
+],
+"Print look": [
+"Druck-Look",
+"Aspecto de impresión",
+"Aspect imprimé",
+"Aspetto stampa",
+"Aspeto de impressão",
+"Printlook",
+"Baskı görünümü",
+"प्रिंट लुक"
+],
+"StandBy face": [
+"StandBy-Anzeige",
+"Cara de StandBy",
+"Cadran StandBy",
+"Quadrante StandBy",
+"Mostrador StandBy",
+"StandBy-wijzerplaat",
+"StandBy yüzü",
+"StandBy फेस"
+],
+"Digital": [
+"Digital",
+"Digital",
+"Numérique",
+"Digitale",
+"Digital",
+"Digitaal",
+"Dijital",
+"डिजिटल"
+],
+"StandBy colour": [
+"StandBy-Farbe",
+"Color de StandBy",
+"Couleur StandBy",
+"Colore StandBy",
+"Cor do StandBy",
+"StandBy-kleur",
+"StandBy rengi",
+"StandBy रंग"
+],
+"White": [
+"Weiß",
+"Blanco",
+"Blanc",
+"Bianco",
+"Branco",
+"Wit",
+"Beyaz",
+"सफ़ेद"
+],
+"Night Mode": [
+"Nachtmodus",
+"Modo nocturno",
+"Mode nuit",
+"Modalità notte",
+"Modo noturno",
+"Nachtmodus",
+"Gece modu",
+"नाइट मोड"
+],
+"Start the screensaver now": [
+"Bildschirmschoner jetzt starten",
+"Iniciar el salvapantallas ahora",
+"Lancer l'économiseur maintenant",
+"Avvia ora lo screensaver",
+"Iniciar o protetor de ecrã agora",
+"Schermbeveiliging nu starten",
+"Ekran koruyucuyu şimdi başlat",
+"स्क्रीनसेवर अभी शुरू करें"
+],
+"Defaults": [
+"Standard",
+"Predeterminados",
+"Par défaut",
+"Predefiniti",
+"Predefinidos",
+"Standaard",
+"Varsayılanlar",
+"डिफ़ॉल्ट"
+],
+"Favorites": [
+"Favoriten",
+"Favoritos",
+"Favoris",
+"Preferiti",
+"Favoritos",
+"Favorieten",
+"Favoriler",
+"पसंदीदा"
+],
+"Select all": [
+"Alle auswählen",
+"Seleccionar todo",
+"Tout sélectionner",
+"Seleziona tutto",
+"Selecionar tudo",
+"Alles selecteren",
+"Tümünü seç",
+"सभी चुनें"
+],
+"All": [
+"Alle",
+"Todos",
+"Tous",
+"Tutti",
+"Todos",
+"Alle",
+"Tümü",
+"सभी"
+],
+"Games": [
+"Spiele",
+"Juegos",
+"Jeux",
+"Giochi",
+"Jogos",
+"Games",
+"Oyunlar",
+"गेम्स"
+],
+"Tools": [
+"Tools",
+"Herramientas",
+"Outils",
+"Strumenti",
+"Ferramentas",
+"Tools",
+"Araçlar",
+"टूल्स"
+],
+"Media": [
+"Medien",
+"Multimedia",
+"Médias",
+"Media",
+"Multimédia",
+"Media",
+"Medya",
+"मीडिया"
+],
+"Home Screen": [
+"Startbildschirm",
+"Pantalla de inicio",
+"Écran d'accueil",
+"Schermata Home",
+"Ecrã inicial",
+"Startscherm",
+"Ana ekran",
+"होम स्क्रीन"
+],
+"Weather": [
+"Wetter",
+"Tiempo",
+"Météo",
+"Meteo",
+"Tempo",
+"Weer",
+"Hava durumu",
+"मौसम"
+],
+"Language and Clock": [
+"Sprache und Uhr",
+"Idioma y reloj",
+"Langue et horloge",
+"Lingua e orologio",
+"Idioma e relógio",
+"Taal en klok",
+"Dil ve saat",
+"भाषा और घड़ी"
+],
+"System": [
+"System",
+"Sistema",
+"Système",
+"Sistema",
+"Sistema",
+"Systeem",
+"Sistem",
+"सिस्टम"
+],
+"Choose wallpaper": [
+"Hintergrund wählen",
+"Elegir fondo",
+"Choisir le fond",
+"Scegli lo sfondo",
+"Escolher fundo",
+"Achtergrond kiezen",
+"Duvar kâğıdı seç",
+"वॉलपेपर चुनें"
+],
+"Date and time": [
+"Datum und Uhrzeit",
+"Fecha y hora",
+"Date et heure",
+"Data e ora",
+"Data e hora",
+"Datum en tijd",
+"Tarih ve saat",
+"तारीख और समय"
+],
+"With seconds": [
+"Mit Sekunden",
+"Con segundos",
+"Avec secondes",
+"Con secondi",
+"Com segundos",
+"Met seconden",
+"Saniyeli",
+"सेकंड के साथ"
+],
+"Analog": [
+"Analog",
+"Analógico",
+"Analogique",
+"Analogico",
+"Analógico",
+"Analoog",
+"Analog",
+"एनालॉग"
+],
+"Analog and digital": [
+"Analog und digital",
+"Analógico y digital",
+"Analogique et numérique",
+"Analogico e digitale",
+"Analógico e digital",
+"Analoog en digitaal",
+"Analog ve dijital",
+"एनालॉग और डिजिटल"
+],
+"Blue": [
+"Blau",
+"Azul",
+"Bleu",
+"Blu",
+"Azul",
+"Blauw",
+"Mavi",
+"नीला"
+],
+"Green": [
+"Grün",
+"Verde",
+"Vert",
+"Verde",
+"Verde",
+"Groen",
+"Yeşil",
+"हरा"
+],
+"Orange": [
+"Orange",
+"Naranja",
+"Orange",
+"Arancione",
+"Laranja",
+"Oranje",
+"Turuncu",
+"नारंगी"
+],
+"Pink": [
+"Rosa",
+"Rosa",
+"Rose",
+"Rosa",
+"Rosa",
+"Roze",
+"Pembe",
+"गुलाबी"
+],
+"Yellow": [
+"Gelb",
+"Amarillo",
+"Jaune",
+"Giallo",
+"Amarelo",
+"Geel",
+"Sarı",
+"पीला"
+],
+"Red": [
+"Rot",
+"Rojo",
+"Rouge",
+"Rosso",
+"Vermelho",
+"Rood",
+"Kırmızı",
+"लाल"
+],
+"Purple": [
+"Lila",
+"Morado",
+"Violet",
+"Viola",
+"Roxo",
+"Paars",
+"Mor",
+"बैंगनी"
+],
+"Clock and Calendar": [
+"Uhr und Kalender",
+"Reloj y calendario",
+"Horloge et calendrier",
+"Orologio e calendario",
+"Relógio e calendário",
+"Klok en kalender",
+"Saat ve takvim",
+"घड़ी और कैलेंडर"
+],
+"Solar": [
+"Sonne",
+"Solar",
+"Solaire",
+"Solare",
+"Solar",
+"Zon",
+"Güneş",
+"सौर"
+],
+"Fade": [
+"Überblendung",
+"Fundido",
+"Fondu",
+"Dissolvenza",
+"Desvanecimento",
+"Vervagen",
+"Solma",
+"फ़ेड"
+],
+"Flow": [
+"Fluss",
+"Flujo",
+"Flux",
+"Flusso",
+"Fluxo",
+"Stroom",
+"Akış",
+"फ़्लो"
+],
+"Recent, with people": [
+"Neueste, mit Personen",
+"Recientes, con personas",
+"Récentes, avec des personnes",
+"Recenti, con persone",
+"Recentes, com pessoas",
+"Recent, met personen",
+"Son, kişilerle",
+"हाल की, लोगों के साथ"
+],
+"On this day": [
+"An diesem Tag",
+"En este día",
+"Ce jour-là",
+"In questo giorno",
+"Neste dia",
+"Op deze dag",
+"Bu günde",
+"इस दिन"
+],
+"Favourites": [
+"Favoriten",
+"Favoritos",
+"Favoris",
+"Preferiti",
+"Favoritos",
+"Favorieten",
+"Favoriler",
+"पसंदीदा"
+],
+"All my photos": [
+"Alle meine Fotos",
+"Todas mis fotos",
+"Toutes mes photos",
+"Tutte le mie foto",
+"Todas as minhas fotos",
+"Al mijn foto's",
+"Tüm fotoğraflarım",
+"मेरी सभी फ़ोटो"
+],
+"Get started": [
+"Los geht's",
+"Empezar",
+"Commencer",
+"Inizia",
+"Começar",
+"Aan de slag",
+"Başlayın",
+"शुरू करें"
+],
+"Skip setup": [
+"Einrichtung überspringen",
+"Omitir configuración",
+"Ignorer la configuration",
+"Salta la configurazione",
+"Saltar a configuração",
+"Installatie overslaan",
+"Kurulumu atla",
+"सेटअप छोड़ें"
+],
+"Start using Lumen": [
+"Lumen verwenden",
+"Empezar a usar Lumen",
+"Utiliser Lumen",
+"Inizia a usare Lumen",
+"Começar a usar o Lumen",
+"Lumen gebruiken",
+"Lumen'i kullanmaya başla",
+"Lumen का उपयोग शुरू करें"
+],
+"Welcome to Lumen": [
+"Willkommen bei Lumen",
+"Bienvenido a Lumen",
+"Bienvenue dans Lumen",
+"Benvenuto in Lumen",
+"Bem-vindo ao Lumen",
+"Welkom bij Lumen",
+"Lumen'e hoş geldiniz",
+"Lumen में आपका स्वागत है"
+],
+"All set": [
+"Alles bereit",
+"Todo listo",
+"Tout est prêt",
+"Tutto pronto",
+"Tudo pronto",
+"Klaar",
+"Hazır",
+"सब तैयार है"
+],
+"Nothing here yet": [
+"Hier ist noch nichts",
+"Aún no hay nada aquí",
+"Rien ici pour l'instant",
+"Ancora niente qui",
+"Ainda não há nada aqui",
+"Hier is nog niets",
+"Burada henüz bir şey yok",
+"यहां अभी कुछ नहीं है"
+],
+"No other apps are open": [
+"Keine anderen Apps geöffnet",
+"No hay otras apps abiertas",
+"Aucune autre app ouverte",
+"Nessun'altra app aperta",
+"Nenhuma outra app aberta",
+"Geen andere apps geopend",
+"Başka açık uygulama yok",
+"कोई और ऐप खुला नहीं है"
+],
+"Up closes an app, OK opens it": [
+"Hoch schließt eine App, OK öffnet sie",
+"Arriba cierra una app, OK la abre",
+"Haut ferme une app, OK l'ouvre",
+"Su chiude un'app, OK la apre",
+"Cima fecha uma app, OK abre-a",
+"Omhoog sluit een app, OK opent hem",
+"Yukarı uygulamayı kapatır, Tamam açar",
+"ऊपर ऐप बंद करता है, OK खोलता है"
+],
+"Press OK again to uninstall": [
+"Zum Deinstallieren erneut OK drücken",
+"Pulsa OK otra vez para desinstalar",
+"Appuyez encore sur OK pour désinstaller",
+"Premi di nuovo OK per disinstallare",
+"Prima OK novamente para desinstalar",
+"Druk nogmaals op OK om te verwijderen",
+"Kaldırmak için tekrar Tamam'a basın",
+"अनइंस्टॉल करने के लिए OK फिर दबाएं"
+],
+"Uninstall App": [
+"App deinstallieren",
+"Desinstalar app",
+"Désinstaller l'app",
+"Disinstalla app",
+"Desinstalar app",
+"App verwijderen",
+"Uygulamayı kaldır",
+"ऐप अनइंस्टॉल करें"
+],
+"Not running on webOS": [
+"Läuft nicht auf webOS",
+"No se ejecuta en webOS",
+"Ne fonctionne pas sur webOS",
+"Non in esecuzione su webOS",
+"Não está a correr no webOS",
+"Draait niet op webOS",
+"webOS üzerinde çalışmıyor",
+"webOS पर नहीं चल रहा"
+],
+"Homebrew Channel not available, using the built-in app list": [
+"Homebrew Channel nicht verfügbar, die eingebaute App-Liste wird verwendet",
+"Homebrew Channel no disponible, se usa la lista de apps integrada",
+"Homebrew Channel indisponible, liste d'apps intégrée utilisée",
+"Homebrew Channel non disponibile, uso l'elenco app integrato",
+"Homebrew Channel indisponível, a usar a lista de apps integrada",
+"Homebrew Channel niet beschikbaar, ingebouwde app-lijst wordt gebruikt",
+"Homebrew Channel kullanılamıyor, yerleşik uygulama listesi kullanılıyor",
+"Homebrew Channel उपलब्ध नहीं, बिल्ट-इन ऐप सूची उपयोग हो रही है"
+],
+"Could not read the app list": [
+"App-Liste konnte nicht gelesen werden",
+"No se pudo leer la lista de apps",
+"Impossible de lire la liste d'apps",
+"Impossibile leggere l'elenco app",
+"Não foi possível ler a lista de apps",
+"App-lijst kon niet worden gelezen",
+"Uygulama listesi okunamadı",
+"ऐप सूची पढ़ी नहीं जा सकी"
+],
+"Could not read the inputs": [
+"Eingänge konnten nicht gelesen werden",
+"No se pudieron leer las entradas",
+"Impossible de lire les entrées",
+"Impossibile leggere gli ingressi",
+"Não foi possível ler as entradas",
+"Ingangen konden niet worden gelezen",
+"Girişler okunamadı",
+"इनपुट पढ़े नहीं जा सके"
+],
+"Blurs the picture live behind the top buttons and Control Center, with a coloured rim on the glass bar, closer to tvOS 26. It costs frame rate on a weak TV: if the home screen feels slower, turn it off.": [
+"Weichzeichnet das Bild live hinter den oberen Tasten und dem Kontrollzentrum, mit farbigem Rand an der Glasleiste, näher an tvOS 26. Kostet auf schwachen TVs Bildrate: Wenn der Startbildschirm langsamer wirkt, ausschalten.",
+"Desenfoca la imagen en vivo tras los botones superiores y el Centro de control, con un borde de color en la barra de cristal, más cercano a tvOS 26. Cuesta fotogramas en un TV lento: si el inicio va más lento, desactívalo.",
+"Floute l'image en direct derrière les boutons du haut et le Centre de contrôle, avec un liseré coloré sur la barre de verre, plus proche de tvOS 26. Cela coûte des images par seconde sur un téléviseur faible : si l'accueil ralentit, désactivez-le.",
+"Sfoca l'immagine dal vivo dietro i pulsanti in alto e il Centro di controllo, con un bordo colorato sulla barra di vetro, più vicino a tvOS 26. Costa frame rate su una TV debole: se la Home rallenta, disattivalo.",
+"Desfoca a imagem ao vivo atrás dos botões superiores e do Centro de controlo, com um rebordo colorido na barra de vidro, mais próximo do tvOS 26. Custa fotogramas numa TV fraca: se o ecrã inicial ficar lento, desative.",
+"Vervaagt de afbeelding live achter de bovenste knoppen en het Controlecentrum, met een gekleurde rand op de glazen balk, dichter bij tvOS 26. Kost framerate op een zwakke tv: voelt het startscherm trager, zet het dan uit.",
+"Üst düğmelerin ve Denetim Merkezi'nin arkasındaki resmi canlı olarak bulanıklaştırır, cam çubukta renkli kenarlıkla, tvOS 26'ya daha yakın. Zayıf TV'de kare hızından yer: ana ekran yavaşlarsa kapatın.",
+"ऊपरी बटनों और कंट्रोल सेंटर के पीछे तस्वीर को लाइव धुंधला करता है, ग्लास बार पर रंगीन किनारे के साथ, tvOS 26 के करीब। कमज़ोर टीवी पर फ्रेम रेट घटता है: होम स्क्रीन धीमी लगे तो बंद करें।"
+],
+"With Live glass on, also blur the glass bar itself. About 2 ms more of graphics work on every frame, felt most going left and right.": [
+"Bei Live-Glas auch die Glasleiste selbst weichzeichnen. Etwa 2 ms mehr Grafikarbeit pro Bild, am spürbarsten beim Gehen nach links und rechts.",
+"Con Cristal en vivo, desenfoca también la propia barra. Unos 2 ms más de trabajo gráfico por fotograma, se nota sobre todo al ir a izquierda y derecha.",
+"Avec Verre en direct, floute aussi la barre elle-même. Environ 2 ms de calcul graphique en plus par image, surtout sensible en allant à gauche et à droite.",
+"Con Vetro dal vivo, sfoca anche la barra stessa. Circa 2 ms in più di lavoro grafico per frame, si nota soprattutto spostandosi a sinistra e a destra.",
+"Com Vidro ao vivo, desfoca também a própria barra. Cerca de 2 ms a mais de trabalho gráfico por fotograma, sente-se mais ao ir para a esquerda e direita.",
+"Met Live glas ook de glazen balk zelf vervagen. Ongeveer 2 ms extra grafisch werk per frame, vooral merkbaar bij links en rechts gaan.",
+"Canlı cam açıkken cam çubuğun kendisini de bulanıklaştırır. Her karede yaklaşık 2 ms ek grafik işi, en çok sola ve sağa giderken hissedilir.",
+"लाइव ग्लास चालू होने पर ग्लास बार को भी धुंधला करता है। हर फ्रेम पर लगभग 2 ms अधिक ग्राफ़िक्स काम, बाएं-दाएं जाते समय सबसे ज़्यादा महसूस होता है।"
+],
+"Pictures: still pictures from the library, your favorites or the bundled ones. Video: aerial and travel videos. Immich photos: your own photos from an Immich server (docs/immich.md). Plain: no wallpaper picture.": [
+"Bilder: Standbilder aus der Bibliothek, deine Favoriten oder die mitgelieferten. Video: Luftaufnahmen und Reisevideos. Immich-Fotos: deine eigenen Fotos von einem Immich-Server (docs/immich.md). Einfarbig: kein Hintergrundbild.",
+"Imágenes: fotos de la biblioteca, tus favoritos o las incluidas. Vídeo: vídeos aéreos y de viajes. Fotos de Immich: tus fotos de un servidor Immich (docs/immich.md). Liso: sin imagen de fondo.",
+"Images : images fixes de la bibliothèque, vos favoris ou celles fournies. Vidéo : vidéos aériennes et de voyage. Photos Immich : vos photos d'un serveur Immich (docs/immich.md). Uni : pas d'image de fond.",
+"Immagini: immagini fisse dalla libreria, i tuoi preferiti o quelle incluse. Video: video aerei e di viaggio. Foto di Immich: le tue foto da un server Immich (docs/immich.md). Semplice: nessuna immagine di sfondo.",
+"Imagens: imagens fixas da biblioteca, os seus favoritos ou as incluídas. Vídeo: vídeos aéreos e de viagem. Fotos do Immich: as suas fotos de um servidor Immich (docs/immich.md). Simples: sem imagem de fundo.",
+"Afbeeldingen: stilstaande beelden uit de bibliotheek, je favorieten of de meegeleverde. Video: luchtopnamen en reisvideo's. Immich-foto's: je eigen foto's van een Immich-server (docs/immich.md). Effen: geen achtergrondafbeelding.",
+"Resimler: kütüphaneden sabit resimler, favorileriniz veya dahili olanlar. Video: hava ve seyahat videoları. Immich fotoğrafları: bir Immich sunucusundaki kendi fotoğraflarınız (docs/immich.md). Düz: duvar kâğıdı resmi yok.",
+"तस्वीरें: लाइब्रेरी की स्थिर तस्वीरें, आपके पसंदीदा या साथ आई हुई। वीडियो: हवाई और यात्रा वीडियो। Immich फ़ोटो: Immich सर्वर से आपकी अपनी फ़ोटो (docs/immich.md)। सादा: कोई वॉलपेपर तस्वीर नहीं।"
+],
+"With several pictures ticked in Choose wallpaper, show a different one each time Lumen starts. Off keeps the picture shown last.": [
+"Wenn in „Hintergrund wählen“ mehrere Bilder markiert sind, bei jedem Start von Lumen ein anderes zeigen. Aus behält das zuletzt gezeigte Bild.",
+"Con varias imágenes marcadas en Elegir fondo, muestra una distinta cada vez que Lumen inicia. Desactivado mantiene la última mostrada.",
+"Si plusieurs images sont cochées dans Choisir le fond, en affiche une différente à chaque démarrage de Lumen. Désactivé garde la dernière affichée.",
+"Con più immagini selezionate in Scegli lo sfondo, ne mostra una diversa a ogni avvio di Lumen. Disattivato mantiene l'ultima mostrata.",
+"Com várias imagens marcadas em Escolher fundo, mostra uma diferente de cada vez que o Lumen inicia. Desligado mantém a última mostrada.",
+"Met meerdere afbeeldingen aangevinkt in Achtergrond kiezen, wordt bij elke start van Lumen een andere getoond. Uit behoudt de laatst getoonde.",
+"Duvar kâğıdı seç'te birkaç resim işaretliyse Lumen her başladığında farklı birini gösterir. Kapalıysa son gösterilen kalır.",
+"वॉलपेपर चुनें में कई तस्वीरें चुनी हों तो हर बार Lumen शुरू होने पर अलग तस्वीर दिखाता है। बंद होने पर आखिरी तस्वीर रहती है।"
+],
+"How much the focused app grows. Normal is as Lumen was; Subtle grows less; Strong grows more.": [
+"Wie stark die fokussierte App wächst. Normal ist wie bisher in Lumen; Dezent wächst weniger; Stark wächst mehr.",
+"Cuánto crece la app enfocada. Normal es como era Lumen; Sutil crece menos; Fuerte crece más.",
+"De combien l'app ciblée grandit. Normal est comme Lumen l'était ; Discret grandit moins ; Fort grandit plus.",
+"Quanto cresce l'app in focus. Normale è come era Lumen; Leggero cresce meno; Forte cresce di più.",
+"Quanto a app focada cresce. Normal é como o Lumen era; Subtil cresce menos; Forte cresce mais.",
+"Hoeveel de gefocuste app groeit. Normaal is zoals Lumen was; Subtiel groeit minder; Sterk groeit meer.",
+"Odaktaki uygulamanın ne kadar büyüdüğü. Normal, Lumen'in eski hâli; Hafif daha az; Güçlü daha çok büyür.",
+"फ़ोकस किया ऐप कितना बड़ा होता है। सामान्य वैसा है जैसा Lumen था; हल्का कम बढ़ता है; तेज़ ज़्यादा बढ़ता है।"
+],
+"No names under the apps on the home screen, not even the one in focus. Settings still shows them.": [
+"Keine Namen unter den Apps auf dem Startbildschirm, auch nicht bei der fokussierten. Die Einstellungen zeigen sie weiterhin.",
+"Sin nombres bajo las apps en la pantalla de inicio, ni siquiera la enfocada. Ajustes los sigue mostrando.",
+"Pas de noms sous les apps de l'écran d'accueil, même pour celle ciblée. Les Réglages les affichent toujours.",
+"Nessun nome sotto le app nella Home, nemmeno quella in focus. Le Impostazioni li mostrano ancora.",
+"Sem nomes sob as apps no ecrã inicial, nem a focada. As Definições continuam a mostrá-los.",
+"Geen namen onder de apps op het startscherm, ook niet bij de gefocuste. Instellingen toont ze nog wel.",
+"Ana ekrandaki uygulamaların altında ad yok, odaktaki dahil. Ayarlar yine de gösterir.",
+"होम स्क्रीन पर ऐप के नीचे कोई नाम नहीं, फ़ोकस वाले का भी नहीं। सेटिंग्स में फिर भी दिखते हैं।"
+],
+"How many apps the glass bar and each row below it hold. Fewer apps per row leaves more room around each.": [
+"Wie viele Apps die Glasleiste und jede Reihe darunter fassen. Weniger Apps pro Reihe lassen mehr Platz um jede App.",
+"Cuántas apps caben en la barra de cristal y en cada fila inferior. Menos apps por fila deja más espacio a cada una.",
+"Combien d'apps tiennent dans la barre de verre et chaque rangée en dessous. Moins d'apps par rangée laisse plus de place à chacune.",
+"Quante app contengono la barra di vetro e ogni riga sotto. Meno app per riga lasciano più spazio a ciascuna.",
+"Quantas apps cabem na barra de vidro e em cada linha abaixo. Menos apps por linha dão mais espaço a cada uma.",
+"Hoeveel apps de glazen balk en elke rij eronder bevatten. Minder apps per rij geeft meer ruimte rond elke app.",
+"Cam çubuğun ve altındaki her satırın kaç uygulama alacağı. Satır başına daha az uygulama, her birine daha çok yer bırakır.",
+"ग्लास बार और उसके नीचे की हर पंक्ति में कितने ऐप आते हैं। प्रति पंक्ति कम ऐप होने पर हर ऐप के आसपास ज़्यादा जगह मिलती है।"
+],
+"Focus, rows and panels change at once, without sliding, fading or zooming.": [
+"Fokus, Reihen und Bereiche wechseln sofort, ohne Gleiten, Überblenden oder Zoomen.",
+"El foco, las filas y los paneles cambian al instante, sin deslizar, desvanecer ni hacer zoom.",
+"Le focus, les rangées et les panneaux changent d'un coup, sans glissement, fondu ni zoom.",
+"Focus, righe e pannelli cambiano subito, senza scorrere, dissolvere o zoomare.",
+"O foco, as linhas e os painéis mudam de imediato, sem deslizar, desvanecer ou ampliar.",
+"Focus, rijen en panelen wisselen meteen, zonder glijden, vervagen of zoomen.",
+"Odak, satırlar ve paneller kayma, solma veya yakınlaşma olmadan anında değişir.",
+"फ़ोकस, पंक्तियां और पैनल बिना स्लाइड, फ़ेड या ज़ूम के तुरंत बदलते हैं।"
+],
+"The glass bar bends the picture at its edges, like Liquid Glass on Apple TV. Moving along the dock is slower with it on, and over a video wallpaper it only tints. Off by default.": [
+"Die Glasleiste biegt das Bild an ihren Rändern, wie Liquid Glass auf Apple TV. Bewegen im Dock ist damit langsamer, und über einem Videohintergrund tönt sie nur. Standardmäßig aus.",
+"La barra de cristal curva la imagen en sus bordes, como Liquid Glass en Apple TV. Moverse por el dock es más lento con ella, y sobre un fondo de vídeo solo tiñe. Desactivado por defecto.",
+"La barre de verre courbe l'image sur ses bords, comme Liquid Glass sur Apple TV. Se déplacer dans le dock est plus lent, et sur un fond vidéo elle ne fait que teinter. Désactivé par défaut.",
+"La barra di vetro piega l'immagine ai bordi, come Liquid Glass su Apple TV. Muoversi nel dock è più lento e su uno sfondo video tinge soltanto. Disattivato per impostazione predefinita.",
+"A barra de vidro dobra a imagem nas margens, como o Liquid Glass na Apple TV. Mover-se no dock é mais lento e, sobre um fundo de vídeo, só tinge. Desligado por predefinição.",
+"De glazen balk buigt het beeld aan de randen, zoals Liquid Glass op Apple TV. Bewegen door het dock gaat trager en over een videoachtergrond kleurt hij alleen. Standaard uit.",
+"Cam çubuk, Apple TV'deki Liquid Glass gibi kenarlarında resmi büker. Açıkken dock'ta gezinmek yavaşlar ve video duvar kâğıdında yalnızca renk verir. Varsayılan olarak kapalı.",
+"ग्लास बार अपने किनारों पर तस्वीर को मोड़ता है, Apple TV के Liquid Glass की तरह। चालू होने पर डॉक में चलना धीमा होता है, और वीडियो वॉलपेपर पर सिर्फ़ रंग देता है। डिफ़ॉल्ट रूप से बंद।"
+],
+"How bright the TV is while the photo screensaver shows. Dim and Very dim lower the TV's backlight and put it back when you press a key.": [
+"Wie hell der TV beim Foto-Bildschirmschoner ist. Gedimmt und Sehr gedimmt senken die Hintergrundbeleuchtung und stellen sie bei Tastendruck wieder her.",
+"Qué brillo tiene el TV mientras se muestra el salvapantallas de fotos. Tenue y Muy tenue bajan la retroiluminación y la restauran al pulsar una tecla.",
+"Luminosité du téléviseur pendant l'économiseur de photos. Faible et Très faible baissent le rétroéclairage et le rétablissent à l'appui d'une touche.",
+"Luminosità della TV mentre è attivo lo screensaver di foto. Basso e Molto basso abbassano la retroilluminazione e la ripristinano alla pressione di un tasto.",
+"Brilho da TV enquanto o protetor de ecrã de fotos é mostrado. Reduzido e Muito reduzido baixam a retroiluminação e restauram-na ao premir uma tecla.",
+"Hoe helder de tv is tijdens de fotoschermbeveiliging. Gedimd en Zeer gedimd verlagen de achtergrondverlichting en herstellen die bij een toetsdruk.",
+"Fotoğraf ekran koruyucusu gösterilirken TV'nin ne kadar parlak olacağı. Loş ve Çok loş arka ışığı düşürür, tuşa basınca geri getirir.",
+"फ़ोटो स्क्रीनसेवर चलते समय टीवी कितना चमकीला रहे। धीमा और बहुत धीमा बैकलाइट घटाते हैं और कोई कुंजी दबाने पर वापस कर देते हैं।"
+],
+"Sets everything to how tvOS 27 starts: automatic light and dark, plain glass, normal text and clock, six apps per row, Apple aerial video wallpaper with the dock hiding when idle, screensaver after 5 minutes (the aerials keep playing), and the clock, photo and StandBy options at their defaults. Your apps and weather place stay.": [
+"Setzt alles auf den Start von tvOS 27: automatisch hell und dunkel, schlichtes Glas, normaler Text und Uhr, sechs Apps pro Reihe, Apple-Luftvideo als Hintergrund mit Dock-Ausblendung bei Inaktivität, Bildschirmschoner nach 5 Minuten (die Luftaufnahmen laufen weiter) sowie Uhr-, Foto- und StandBy-Optionen auf Standard. Deine Apps und dein Wetterort bleiben.",
+"Deja todo como arranca tvOS 27: claro y oscuro automático, cristal liso, texto y reloj normales, seis apps por fila, fondo de vídeo aéreo de Apple con el dock oculto en reposo, salvapantallas a los 5 minutos (los aéreos siguen) y las opciones de reloj, fotos y StandBy por defecto. Tus apps y lugar del tiempo se mantienen.",
+"Remet tout comme au démarrage de tvOS 27 : clair et sombre automatiques, verre uni, texte et horloge normaux, six apps par rangée, fond vidéo aérien Apple avec dock masqué au repos, économiseur après 5 minutes (les vues aériennes continuent) et options d'horloge, photos et StandBy par défaut. Vos apps et le lieu météo restent.",
+"Imposta tutto come all'avvio di tvOS 27: chiaro e scuro automatici, vetro semplice, testo e orologio normali, sei app per riga, sfondo video aereo Apple con dock nascosto da inattivo, screensaver dopo 5 minuti (i video aerei continuano) e opzioni di orologio, foto e StandBy predefinite. Le tue app e il luogo meteo restano.",
+"Repõe tudo como o tvOS 27 arranca: claro e escuro automáticos, vidro simples, texto e relógio normais, seis apps por linha, fundo de vídeo aéreo da Apple com o dock escondido em repouso, protetor de ecrã aos 5 minutos (os vídeos aéreos continuam) e as opções de relógio, fotos e StandBy por predefinição. As suas apps e o local do tempo mantêm-se.",
+"Zet alles zoals tvOS 27 start: automatisch licht en donker, effen glas, normale tekst en klok, zes apps per rij, Apple-luchtvideo als achtergrond met verborgen dock bij inactiviteit, schermbeveiliging na 5 minuten (de luchtopnamen blijven spelen) en klok-, foto- en StandBy-opties op standaard. Je apps en weerplaats blijven.",
+"Her şeyi tvOS 27'nin başlangıcına ayarlar: otomatik açık ve koyu, düz cam, normal metin ve saat, satır başına altı uygulama, boştayken dock gizlenen Apple hava videosu duvar kâğıdı, 5 dakika sonra ekran koruyucu (hava görüntüleri oynamaya devam eder) ve saat, fotoğraf ve StandBy seçenekleri varsayılan. Uygulamalarınız ve hava durumu yeriniz kalır.",
+"सब कुछ tvOS 27 की शुरुआत जैसा कर देता है: स्वचालित लाइट और डार्क, सादा ग्लास, सामान्य टेक्स्ट और घड़ी, प्रति पंक्ति छह ऐप, निष्क्रिय होने पर डॉक छिपाने वाला Apple हवाई वीडियो वॉलपेपर, 5 मिनट बाद स्क्रीनसेवर (हवाई दृश्य चलते रहते हैं), और घड़ी, फ़ोटो व StandBy विकल्प डिफ़ॉल्ट पर। आपके ऐप और मौसम का स्थान वैसे ही रहते हैं।"
+],
+"Go through the first-run questions again.": [
+"Die Fragen der Ersteinrichtung noch einmal durchgehen.",
+"Repasa las preguntas de la primera configuración.",
+"Repasser les questions du premier lancement.",
+"Ripercorri le domande del primo avvio.",
+"Percorrer novamente as perguntas da primeira configuração.",
+"De vragen van de eerste keer opnieuw doorlopen.",
+"İlk çalıştırma sorularından tekrar geçin.",
+"पहली बार वाले सवालों से फिर गुज़रें।"
+],
+"How the clock in the top right looks: digital, with the date, with seconds, an analog dial, or the dial next to the digits.": [
+"So sieht die Uhr oben rechts aus: digital, mit Datum, mit Sekunden, ein analoges Zifferblatt oder das Zifferblatt neben den Ziffern.",
+"Cómo se ve el reloj arriba a la derecha: digital, con fecha, con segundos, una esfera analógica o la esfera junto a los dígitos.",
+"Aspect de l'horloge en haut à droite : numérique, avec la date, avec secondes, un cadran analogique ou le cadran à côté des chiffres.",
+"Come appare l'orologio in alto a destra: digitale, con data, con secondi, un quadrante analogico o il quadrante accanto alle cifre.",
+"Como o relógio no canto superior direito se apresenta: digital, com data, com segundos, um mostrador analógico ou o mostrador junto aos dígitos.",
+"Hoe de klok rechtsboven eruitziet: digitaal, met datum, met seconden, een analoge wijzerplaat of de wijzerplaat naast de cijfers.",
+"Sağ üstteki saatin görünümü: dijital, tarihli, saniyeli, analog kadran veya rakamların yanında kadran.",
+"ऊपर दाएं की घड़ी कैसी दिखे: डिजिटल, तारीख के साथ, सेकंड के साथ, एनालॉग डायल, या अंकों के बगल में डायल।"
+],
+"The colour of the clock in the top right.": [
+"Die Farbe der Uhr oben rechts.",
+"El color del reloj arriba a la derecha.",
+"La couleur de l'horloge en haut à droite.",
+"Il colore dell'orologio in alto a destra.",
+"A cor do relógio no canto superior direito.",
+"De kleur van de klok rechtsboven.",
+"Sağ üstteki saatin rengi.",
+"ऊपर दाएं की घड़ी का रंग।"
+],
+"Solid: plain digits. Frosted: see-through white digits with a soft edge, like the iOS lock screen.": [
+"Einfarbig: schlichte Ziffern. Milchglas: durchscheinende weiße Ziffern mit weichem Rand, wie auf dem iOS-Sperrbildschirm.",
+"Sólido: dígitos lisos. Esmerilado: dígitos blancos translúcidos con borde suave, como la pantalla de bloqueo de iOS.",
+"Plein : chiffres unis. Dépoli : chiffres blancs translucides au bord doux, comme l'écran verrouillé d'iOS.",
+"Pieno: cifre semplici. Satinato: cifre bianche trasparenti con bordo morbido, come la schermata di blocco di iOS.",
+"Sólido: dígitos simples. Fosco: dígitos brancos translúcidos com rebordo suave, como o ecrã de bloqueio do iOS.",
+"Effen: gewone cijfers. Matglas: doorzichtige witte cijfers met zachte rand, zoals het iOS-toegangsscherm.",
+"Düz: sade rakamlar. Buzlu: iOS kilit ekranı gibi yumuşak kenarlı, saydam beyaz rakamlar.",
+"ठोस: सादे अंक। फ्रॉस्टेड: iOS लॉक स्क्रीन की तरह नरम किनारे वाले पारदर्शी सफ़ेद अंक।"
+],
+"For the Stacked layout: the big time above the date and weather, or the date and weather first and the time below them.": [
+"Für das gestapelte Layout: die große Uhrzeit über Datum und Wetter, oder Datum und Wetter zuerst und die Uhrzeit darunter.",
+"Para el diseño apilado: la hora grande sobre la fecha y el tiempo, o la fecha y el tiempo primero y la hora debajo.",
+"Pour la disposition empilée : la grande heure au-dessus de la date et de la météo, ou la date et la météo d'abord et l'heure en dessous.",
+"Per il layout impilato: l'ora grande sopra data e meteo, oppure data e meteo prima e l'ora sotto.",
+"Para a disposição empilhada: a hora grande por cima da data e do tempo, ou a data e o tempo primeiro e a hora por baixo.",
+"Voor de gestapelde indeling: de grote tijd boven datum en weer, of datum en weer eerst en de tijd eronder.",
+"Yığılı düzen için: tarih ve havanın üstünde büyük saat ya da önce tarih ve hava, altında saat.",
+"स्टैक्ड लेआउट के लिए: तारीख और मौसम के ऊपर बड़ा समय, या पहले तारीख और मौसम और उनके नीचे समय।"
+],
+"With the dock away, the wallpaper fades darker. It brightens again when the dock comes back.": [
+"Ist das Dock weg, wird der Hintergrund dunkler. Er wird wieder heller, wenn das Dock zurückkommt.",
+"Con el dock oculto, el fondo se oscurece. Vuelve a aclararse cuando el dock regresa.",
+"Quand le dock est masqué, le fond s'assombrit. Il s'éclaircit quand le dock revient.",
+"Con il dock nascosto, lo sfondo si scurisce. Si schiarisce di nuovo quando il dock torna.",
+"Com o dock escondido, o fundo escurece. Volta a clarear quando o dock regressa.",
+"Als het dock weg is, wordt de achtergrond donkerder. Hij wordt weer lichter als het dock terugkomt.",
+"Dock gizlendiğinde duvar kâğıdı kararır. Dock geri gelince yeniden aydınlanır.",
+"डॉक हटने पर वॉलपेपर गहरा हो जाता है। डॉक लौटने पर फिर चमकीला हो जाता है।"
+],
+"One row (date and time side by side), or Stacked: a big time with the long date under it and the weather with its icon below.": [
+"Eine Zeile (Datum und Uhrzeit nebeneinander) oder Gestapelt: große Uhrzeit mit langem Datum darunter und Wetter mit Symbol darunter.",
+"Una fila (fecha y hora lado a lado) o Apilado: hora grande con la fecha larga debajo y el tiempo con su icono más abajo.",
+"Une ligne (date et heure côte à côte) ou Empilé : une grande heure avec la date longue dessous et la météo avec son icône en dessous.",
+"Una riga (data e ora affiancate) oppure Impilato: ora grande con la data estesa sotto e il meteo con la sua icona più sotto.",
+"Uma linha (data e hora lado a lado) ou Empilhado: hora grande com a data por extenso por baixo e o tempo com o ícone mais abaixo.",
+"Eén rij (datum en tijd naast elkaar) of Gestapeld: een grote tijd met de lange datum eronder en het weer met pictogram daaronder.",
+"Tek satır (tarih ve saat yan yana) veya Yığılı: büyük saat, altında uzun tarih, onun altında simgeli hava durumu.",
+"एक पंक्ति (तारीख और समय साथ-साथ) या स्टैक्ड: बड़ा समय, उसके नीचे लंबी तारीख और उसके नीचे आइकन के साथ मौसम।"
+],
+"How large the date, time and weather block at the top is.": [
+"Wie groß der Block aus Datum, Uhrzeit und Wetter oben ist.",
+"Qué tamaño tiene el bloque de fecha, hora y tiempo arriba.",
+"Taille du bloc date, heure et météo en haut.",
+"Quanto è grande il blocco di data, ora e meteo in alto.",
+"Que tamanho tem o bloco de data, hora e tempo no topo.",
+"Hoe groot het blok met datum, tijd en weer bovenaan is.",
+"Üstteki tarih, saat ve hava bloğunun boyutu.",
+"ऊपर के तारीख, समय और मौसम वाले हिस्से का आकार।"
+],
+"Moves the date, time and weather block left or right from its position.": [
+"Verschiebt den Block aus Datum, Uhrzeit und Wetter nach links oder rechts.",
+"Mueve el bloque de fecha, hora y tiempo a izquierda o derecha.",
+"Déplace le bloc date, heure et météo vers la gauche ou la droite.",
+"Sposta il blocco di data, ora e meteo a sinistra o a destra.",
+"Move o bloco de data, hora e tempo para a esquerda ou direita.",
+"Verschuift het blok met datum, tijd en weer naar links of rechts.",
+"Tarih, saat ve hava bloğunu sola veya sağa kaydırır.",
+"तारीख, समय और मौसम वाले हिस्से को बाएं या दाएं खिसकाता है।"
+],
+"Moves the date, time and weather block up or down from its position.": [
+"Verschiebt den Block aus Datum, Uhrzeit und Wetter nach oben oder unten.",
+"Mueve el bloque de fecha, hora y tiempo arriba o abajo.",
+"Déplace le bloc date, heure et météo vers le haut ou le bas.",
+"Sposta il blocco di data, ora e meteo su o giù.",
+"Move o bloco de data, hora e tempo para cima ou para baixo.",
+"Verschuift het blok met datum, tijd en weer omhoog of omlaag.",
+"Tarih, saat ve hava bloğunu yukarı veya aşağı kaydırır.",
+"तारीख, समय और मौसम वाले हिस्से को ऊपर या नीचे खिसकाता है।"
+],
+"How thick the letters of the date and time are.": [
+"Wie dick die Buchstaben von Datum und Uhrzeit sind.",
+"Qué grosor tienen las letras de la fecha y la hora.",
+"Épaisseur des caractères de la date et de l'heure.",
+"Quanto sono spessi i caratteri di data e ora.",
+"Quão grossas são as letras da data e da hora.",
+"Hoe dik de letters van datum en tijd zijn.",
+"Tarih ve saat harflerinin kalınlığı.",
+"तारीख और समय के अक्षर कितने मोटे हों।"
+],
+"Where the date, time and weather block sits at the top of the home screen.": [
+"Wo der Block aus Datum, Uhrzeit und Wetter oben auf dem Startbildschirm sitzt.",
+"Dónde se coloca el bloque de fecha, hora y tiempo en la parte superior del inicio.",
+"Où se place le bloc date, heure et météo en haut de l'écran d'accueil.",
+"Dove si trova il blocco di data, ora e meteo in alto nella Home.",
+"Onde fica o bloco de data, hora e tempo no topo do ecrã inicial.",
+"Waar het blok met datum, tijd en weer bovenaan het startscherm staat.",
+"Tarih, saat ve hava bloğunun ana ekranın üstünde nerede durduğu.",
+"तारीख, समय और मौसम वाला हिस्सा होम स्क्रीन के ऊपर कहां रहे।"
+],
+"The day and date before the time.": [
+"Wochentag und Datum vor der Uhrzeit.",
+"El día y la fecha antes de la hora.",
+"Le jour et la date avant l'heure.",
+"Il giorno e la data prima dell'ora.",
+"O dia e a data antes da hora.",
+"De dag en datum vóór de tijd.",
+"Saatten önce gün ve tarih.",
+"समय से पहले दिन और तारीख।"
+],
+"Where the clock sits on the photo screensaver: bottom, top or centre, left, middle or right, or off. The clock style and colour are the ones in Settings > Language.": [
+"Wo die Uhr im Foto-Bildschirmschoner sitzt: unten, oben oder mittig, links, Mitte oder rechts, oder aus. Uhrstil und Farbe stammen aus Einstellungen > Sprache.",
+"Dónde está el reloj en el salvapantallas de fotos: abajo, arriba o centro, izquierda, medio o derecha, o apagado. El estilo y color son los de Ajustes > Idioma.",
+"Où se place l'horloge sur l'économiseur de photos : en bas, en haut ou au centre, à gauche, au milieu ou à droite, ou désactivée. Le style et la couleur sont ceux de Réglages > Langue.",
+"Dove si trova l'orologio nello screensaver di foto: in basso, in alto o al centro, a sinistra, al centro o a destra, oppure spento. Stile e colore sono quelli in Impostazioni > Lingua.",
+"Onde o relógio fica no protetor de ecrã de fotos: em baixo, em cima ou ao centro, à esquerda, ao meio ou à direita, ou desligado. O estilo e a cor são os de Definições > Idioma.",
+"Waar de klok op de fotoschermbeveiliging staat: onder, boven of midden, links, midden of rechts, of uit. Stijl en kleur komen uit Instellingen > Taal.",
+"Fotoğraf ekran koruyucusunda saatin yeri: alt, üst veya orta, sol, orta veya sağ ya da kapalı. Saat stili ve rengi Ayarlar > Dil'dekilerdir.",
+"फ़ोटो स्क्रीनसेवर पर घड़ी कहां रहे: नीचे, ऊपर या बीच में, बाएं, मध्य या दाएं, या बंद। घड़ी की शैली और रंग सेटिंग्स > भाषा वाले ही हैं।"
+],
+"How large the clock is on the photo screensaver.": [
+"Wie groß die Uhr im Foto-Bildschirmschoner ist.",
+"Qué tamaño tiene el reloj en el salvapantallas de fotos.",
+"Taille de l'horloge sur l'économiseur de photos.",
+"Quanto è grande l'orologio nello screensaver di foto.",
+"Que tamanho tem o relógio no protetor de ecrã de fotos.",
+"Hoe groot de klok op de fotoschermbeveiliging is.",
+"Fotoğraf ekran koruyucusunda saatin boyutu.",
+"फ़ोटो स्क्रीनसेवर पर घड़ी का आकार।"
+],
+"Moves the clock on the photo screensaver left or right from its position.": [
+"Verschiebt die Uhr im Foto-Bildschirmschoner nach links oder rechts.",
+"Mueve el reloj del salvapantallas de fotos a izquierda o derecha.",
+"Déplace l'horloge de l'économiseur de photos vers la gauche ou la droite.",
+"Sposta l'orologio dello screensaver di foto a sinistra o a destra.",
+"Move o relógio do protetor de ecrã de fotos para a esquerda ou direita.",
+"Verschuift de klok op de fotoschermbeveiliging naar links of rechts.",
+"Fotoğraf ekran koruyucusundaki saati sola veya sağa kaydırır.",
+"फ़ोटो स्क्रीनसेवर की घड़ी को बाएं या दाएं खिसकाता है।"
+],
+"Moves the clock on the photo screensaver up or down from its position.": [
+"Verschiebt die Uhr im Foto-Bildschirmschoner nach oben oder unten.",
+"Mueve el reloj del salvapantallas de fotos arriba o abajo.",
+"Déplace l'horloge de l'économiseur de photos vers le haut ou le bas.",
+"Sposta l'orologio dello screensaver di foto su o giù.",
+"Move o relógio do protetor de ecrã de fotos para cima ou para baixo.",
+"Verschuift de klok op de fotoschermbeveiliging omhoog of omlaag.",
+"Fotoğraf ekran koruyucusundaki saati yukarı veya aşağı kaydırır.",
+"फ़ोटो स्क्रीनसेवर की घड़ी को ऊपर या नीचे खिसकाता है।"
+],
+"The date and the weather under the clock on the photo screensaver.": [
+"Datum und Wetter unter der Uhr im Foto-Bildschirmschoner.",
+"La fecha y el tiempo bajo el reloj del salvapantallas de fotos.",
+"La date et la météo sous l'horloge de l'économiseur de photos.",
+"La data e il meteo sotto l'orologio dello screensaver di foto.",
+"A data e o tempo sob o relógio do protetor de ecrã de fotos.",
+"Datum en weer onder de klok op de fotoschermbeveiliging.",
+"Fotoğraf ekran koruyucusunda saatin altında tarih ve hava durumu.",
+"फ़ोटो स्क्रीनसेवर पर घड़ी के नीचे तारीख और मौसम।"
+],
+"Frosted: see-through white digits with a soft edge, like the iOS lock screen. Solid: plain white digits.": [
+"Milchglas: durchscheinende weiße Ziffern mit weichem Rand, wie auf dem iOS-Sperrbildschirm. Einfarbig: schlichte weiße Ziffern.",
+"Esmerilado: dígitos blancos translúcidos con borde suave, como la pantalla de bloqueo de iOS. Sólido: dígitos blancos lisos.",
+"Dépoli : chiffres blancs translucides au bord doux, comme l'écran verrouillé d'iOS. Plein : chiffres blancs unis.",
+"Satinato: cifre bianche trasparenti con bordo morbido, come la schermata di blocco di iOS. Pieno: cifre bianche semplici.",
+"Fosco: dígitos brancos translúcidos com rebordo suave, como o ecrã de bloqueio do iOS. Sólido: dígitos brancos simples.",
+"Matglas: doorzichtige witte cijfers met zachte rand, zoals het iOS-toegangsscherm. Effen: gewone witte cijfers.",
+"Buzlu: iOS kilit ekranı gibi yumuşak kenarlı, saydam beyaz rakamlar. Düz: sade beyaz rakamlar.",
+"फ्रॉस्टेड: iOS लॉक स्क्रीन की तरह नरम किनारे वाले पारदर्शी सफ़ेद अंक। ठोस: सादे सफ़ेद अंक।"
+],
+"Blurs the photos behind the clock, like a lock screen with a blurred wallpaper. Soft or Strong; the crossfade between photos may be less smooth with it on.": [
+"Weichzeichnet die Fotos hinter der Uhr, wie ein Sperrbildschirm mit unscharfem Hintergrund. Weich oder Stark; die Überblendung zwischen Fotos kann damit weniger flüssig sein.",
+"Desenfoca las fotos tras el reloj, como una pantalla de bloqueo con fondo difuminado. Suave o Fuerte; el fundido entre fotos puede ser menos fluido.",
+"Floute les photos derrière l'horloge, comme un écran verrouillé au fond flouté. Doux ou Fort ; le fondu entre photos peut être moins fluide.",
+"Sfoca le foto dietro l'orologio, come una schermata di blocco con sfondo sfocato. Morbido o Forte; la dissolvenza tra le foto può essere meno fluida.",
+"Desfoca as fotos atrás do relógio, como um ecrã de bloqueio com fundo desfocado. Suave ou Forte; a transição entre fotos pode ser menos fluida.",
+"Vervaagt de foto's achter de klok, zoals een toegangsscherm met vervaagde achtergrond. Zacht of Sterk; de overgang tussen foto's kan minder vloeiend zijn.",
+"Saatin arkasındaki fotoğrafları bulanıklaştırır, bulanık duvar kâğıtlı kilit ekranı gibi. Yumuşak veya Güçlü; açıkken fotoğraflar arası geçiş daha az akıcı olabilir.",
+"घड़ी के पीछे की फ़ोटो को धुंधला करता है, धुंधले वॉलपेपर वाली लॉक स्क्रीन की तरह। हल्का या तेज़; चालू होने पर फ़ोटो के बीच का क्रॉसफ़ेड कम सहज हो सकता है।"
+],
+"Lumen keeps a copy of its settings on the TV (/var/lib/homehook/lumen-config.json) after every change. This puts that copy back, replacing the settings here. Needs the Homebrew Channel.": [
+"Lumen speichert nach jeder Änderung eine Kopie der Einstellungen auf dem TV (/var/lib/homehook/lumen-config.json). Das spielt diese Kopie zurück und ersetzt die Einstellungen hier. Benötigt den Homebrew Channel.",
+"Lumen guarda una copia de sus ajustes en el TV (/var/lib/homehook/lumen-config.json) tras cada cambio. Esto la restaura, reemplazando los ajustes de aquí. Requiere el Homebrew Channel.",
+"Lumen garde une copie de ses réglages sur le téléviseur (/var/lib/homehook/lumen-config.json) après chaque changement. Ceci la restaure en remplaçant les réglages d'ici. Nécessite le Homebrew Channel.",
+"Lumen conserva una copia delle sue impostazioni sulla TV (/var/lib/homehook/lumen-config.json) dopo ogni modifica. Questo la ripristina, sostituendo le impostazioni qui. Richiede l'Homebrew Channel.",
+"O Lumen guarda uma cópia das suas definições na TV (/var/lib/homehook/lumen-config.json) após cada alteração. Isto repõe essa cópia, substituindo as definições aqui. Requer o Homebrew Channel.",
+"Lumen bewaart na elke wijziging een kopie van de instellingen op de tv (/var/lib/homehook/lumen-config.json). Dit zet die kopie terug en vervangt de instellingen hier. Vereist het Homebrew Channel.",
+"Lumen her değişiklikten sonra ayarlarının bir kopyasını TV'de tutar (/var/lib/homehook/lumen-config.json). Bu, o kopyayı geri yükleyip buradaki ayarların yerine koyar. Homebrew Channel gerekir.",
+"Lumen हर बदलाव के बाद अपनी सेटिंग्स की एक कॉपी टीवी पर रखता है (/var/lib/homehook/lumen-config.json)। यह उस कॉपी को वापस लाकर यहां की सेटिंग्स बदल देता है। Homebrew Channel ज़रूरी है।"
+],
+"How large the text is: app names, the date and weather, Settings and Control Center. Normal is as Lumen was.": [
+"Wie groß der Text ist: App-Namen, Datum und Wetter, Einstellungen und Kontrollzentrum. Normal ist wie bisher in Lumen.",
+"Qué tamaño tiene el texto: nombres de apps, fecha y tiempo, Ajustes y Centro de control. Normal es como era Lumen.",
+"Taille du texte : noms d'apps, date et météo, Réglages et Centre de contrôle. Normal est comme Lumen l'était.",
+"Quanto è grande il testo: nomi delle app, data e meteo, Impostazioni e Centro di controllo. Normale è come era Lumen.",
+"Tamanho do texto: nomes das apps, data e tempo, Definições e Centro de controlo. Normal é como o Lumen era.",
+"Hoe groot de tekst is: appnamen, datum en weer, Instellingen en Controlecentrum. Normaal is zoals Lumen was.",
+"Metin boyutu: uygulama adları, tarih ve hava, Ayarlar ve Denetim Merkezi. Normal, Lumen'in eski hâlidir.",
+"टेक्स्ट कितना बड़ा हो: ऐप के नाम, तारीख और मौसम, सेटिंग्स और कंट्रोल सेंटर। सामान्य वैसा है जैसा Lumen था।"
+],
+"How far back the Immich source Recent reaches.": [
+"Wie weit die Immich-Quelle „Neueste“ zurückreicht.",
+"Hasta dónde llega hacia atrás la fuente Reciente de Immich.",
+"Jusqu'où remonte la source Récent d'Immich.",
+"Quanto indietro arriva la fonte Recenti di Immich.",
+"Até onde recua a fonte Recentes do Immich.",
+"Hoe ver de Immich-bron Recent teruggaat.",
+"Immich kaynağı Son'un ne kadar geriye gittiği.",
+"Immich स्रोत 'हाल का' कितना पीछे तक जाता है।"
+],
+"Starts Lumen Gallery (or LG's screensaver) after this long without a key press, while Lumen is in front. Off while the video wallpaper plays.": [
+"Startet Lumen Gallery (oder den LG-Bildschirmschoner) nach dieser Zeit ohne Tastendruck, solange Lumen im Vordergrund ist. Aus, solange der Videohintergrund läuft.",
+"Inicia Lumen Gallery (o el salvapantallas de LG) tras este tiempo sin pulsar teclas, mientras Lumen está al frente. Desactivado mientras se reproduce el fondo de vídeo.",
+"Lance Lumen Gallery (ou l'économiseur de LG) après ce délai sans appui de touche, tant que Lumen est au premier plan. Désactivé pendant le fond vidéo.",
+"Avvia Lumen Gallery (o lo screensaver LG) dopo questo tempo senza pressione di tasti, mentre Lumen è in primo piano. Disattivato mentre si riproduce lo sfondo video.",
+"Inicia o Lumen Gallery (ou o protetor de ecrã da LG) após este tempo sem premir teclas, enquanto o Lumen está em primeiro plano. Desligado enquanto o fundo de vídeo é reproduzido.",
+"Start Lumen Gallery (of de LG-schermbeveiliging) na zoveel tijd zonder toetsdruk, zolang Lumen vooraan staat. Uit terwijl de videoachtergrond speelt.",
+"Lumen öndeyken bu kadar süre tuşa basılmazsa Lumen Gallery'yi (veya LG ekran koruyucusunu) başlatır. Video duvar kâğıdı oynarken kapalıdır.",
+"Lumen के सामने रहते हुए इतनी देर कोई कुंजी न दबने पर Lumen Gallery (या LG का स्क्रीनसेवर) शुरू करता है। वीडियो वॉलपेपर चलते समय बंद रहता है।"
+],
+"Lumen Gallery or LG: the screensaver as it was (Lumen Gallery's art, or the TV's own). Photos in Lumen: a slideshow of pictures from Lumen's wallpaper library, with the clock, date and weather. StandBy: after Apple's StandBy, a full-screen face you leave on (clock styles, weather, your photos, slow colour), changed with Left and Right.": [
+"Lumen Gallery oder LG: der Bildschirmschoner wie bisher (Lumen-Gallery-Kunst oder der des TVs). Fotos in Lumen: eine Diashow aus Lumens Hintergrundbibliothek mit Uhr, Datum und Wetter. StandBy: nach Apples StandBy, ein Vollbild-Zifferblatt, das eingeschaltet bleibt (Uhrstile, Wetter, deine Fotos, langsame Farben), mit Links und Rechts wechselbar.",
+"Lumen Gallery o LG: el salvapantallas de siempre (arte de Lumen Gallery o el del TV). Fotos en Lumen: una presentación de imágenes de la biblioteca de fondos de Lumen, con reloj, fecha y tiempo. StandBy: al estilo de StandBy de Apple, una cara a pantalla completa que dejas puesta (estilos de reloj, tiempo, tus fotos, color lento), que cambia con Izquierda y Derecha.",
+"Lumen Gallery ou LG : l'économiseur d'avant (l'art de Lumen Gallery ou celui du téléviseur). Photos dans Lumen : un diaporama d'images de la bibliothèque de fonds de Lumen, avec horloge, date et météo. StandBy : d'après le StandBy d'Apple, un cadran plein écran que vous laissez allumé (styles d'horloge, météo, vos photos, couleur lente), changé avec Gauche et Droite.",
+"Lumen Gallery o LG: lo screensaver di sempre (l'arte di Lumen Gallery o quello della TV). Foto in Lumen: una presentazione di immagini dalla libreria sfondi di Lumen, con orologio, data e meteo. StandBy: sul modello di StandBy di Apple, un quadrante a schermo intero che lasci acceso (stili di orologio, meteo, le tue foto, colore lento), che cambia con Sinistra e Destra.",
+"Lumen Gallery ou LG: o protetor de ecrã como era (arte do Lumen Gallery ou o da TV). Fotos no Lumen: uma apresentação de imagens da biblioteca de fundos do Lumen, com relógio, data e tempo. StandBy: ao estilo do StandBy da Apple, um mostrador em ecrã inteiro que deixa ligado (estilos de relógio, tempo, as suas fotos, cor lenta), alterado com Esquerda e Direita.",
+"Lumen Gallery of LG: de schermbeveiliging zoals hij was (Lumen Gallery-kunst of die van de tv). Foto's in Lumen: een diavoorstelling uit Lumens achtergrondbibliotheek, met klok, datum en weer. StandBy: naar Apples StandBy, een schermvullende wijzerplaat die je aan laat staan (klokstijlen, weer, je foto's, langzame kleur), te wisselen met Links en Rechts.",
+"Lumen Gallery veya LG: ekran koruyucu eskisi gibi (Lumen Gallery sanatı ya da TV'nin kendisi). Lumen'de fotoğraflar: Lumen'in duvar kâğıdı kütüphanesinden saat, tarih ve havayla bir slayt gösterisi. StandBy: Apple'ın StandBy'ından esinlenen, açık bıraktığınız tam ekran yüz (saat stilleri, hava, fotoğraflarınız, yavaş renk), Sol ve Sağ ile değişir.",
+"Lumen Gallery या LG: पहले जैसा स्क्रीनसेवर (Lumen Gallery की कला या टीवी का अपना)। Lumen में फ़ोटो: Lumen की वॉलपेपर लाइब्रेरी की तस्वीरों का स्लाइडशो, घड़ी, तारीख और मौसम के साथ। StandBy: Apple के StandBy की तरह, पूरी स्क्रीन का फेस जिसे आप चालू छोड़ते हैं (घड़ी शैलियां, मौसम, आपकी फ़ोटो, धीमा रंग), बाएं और दाएं से बदलता है।"
+],
+"Which pictures the photo screensaver shows: your Favorites (Settings > Wallpaper > Choose wallpaper, hold OK), the paintings, the landscapes, everything, a Shuffle of all of it (mixed with your Immich photos when set up), or only the pictures you ticked in Choose wallpaper. Pictures load over the internet.": [
+"Welche Bilder der Foto-Bildschirmschoner zeigt: deine Favoriten (Einstellungen > Hintergrund > Hintergrund wählen, OK halten), die Gemälde, die Landschaften, alles, ein Zufall aus allem (gemischt mit deinen Immich-Fotos, wenn eingerichtet) oder nur die in „Hintergrund wählen“ markierten Bilder. Bilder werden über das Internet geladen.",
+"Qué imágenes muestra el salvapantallas de fotos: tus favoritos (Ajustes > Fondo > Elegir fondo, mantén OK), las pinturas, los paisajes, todo, un aleatorio de todo (mezclado con tus fotos de Immich si está configurado) o solo las marcadas en Elegir fondo. Las imágenes se cargan por Internet.",
+"Quelles images montre l'économiseur de photos : vos favoris (Réglages > Fond > Choisir le fond, maintenir OK), les peintures, les paysages, tout, un aléatoire de l'ensemble (mêlé à vos photos Immich si configuré) ou seulement celles cochées dans Choisir le fond. Les images se chargent via Internet.",
+"Quali immagini mostra lo screensaver di foto: i tuoi preferiti (Impostazioni > Sfondo > Scegli lo sfondo, tieni premuto OK), i dipinti, i paesaggi, tutto, un casuale di tutto (mescolato alle tue foto Immich se configurato) o solo quelle selezionate in Scegli lo sfondo. Le immagini si caricano via Internet.",
+"Que imagens o protetor de ecrã de fotos mostra: os seus favoritos (Definições > Fundo > Escolher fundo, manter OK), as pinturas, as paisagens, tudo, um aleatório de tudo (misturado com as suas fotos Immich, se configurado) ou só as marcadas em Escolher fundo. As imagens são carregadas pela Internet.",
+"Welke afbeeldingen de fotoschermbeveiliging toont: je favorieten (Instellingen > Achtergrond > Achtergrond kiezen, OK ingedrukt houden), de schilderijen, de landschappen, alles, een willekeurige mix van alles (gemengd met je Immich-foto's indien ingesteld) of alleen de aangevinkte in Achtergrond kiezen. Afbeeldingen worden via internet geladen.",
+"Fotoğraf ekran koruyucusunun hangi resimleri gösterdiği: favorileriniz (Ayarlar > Duvar kâğıdı > Duvar kâğıdı seç, Tamam'a basılı tutun), resimler, manzaralar, hepsi, hepsinin karışığı (kuruluysa Immich fotoğraflarınızla karışık) veya yalnızca Duvar kâğıdı seç'te işaretledikleriniz. Resimler internetten yüklenir.",
+"फ़ोटो स्क्रीनसेवर कौन सी तस्वीरें दिखाए: आपके पसंदीदा (सेटिंग्स > वॉलपेपर > वॉलपेपर चुनें, OK दबाए रखें), चित्र, प्राकृतिक दृश्य, सब कुछ, सबका शफल (सेट होने पर आपकी Immich फ़ोटो के साथ मिलाकर), या सिर्फ़ वॉलपेपर चुनें में चुनी हुई तस्वीरें। तस्वीरें इंटरनेट से लोड होती हैं।"
+],
+"How long each picture stays on screen before the next one fades in.": [
+"Wie lange jedes Bild zu sehen ist, bevor das nächste eingeblendet wird.",
+"Cuánto permanece cada imagen en pantalla antes de que aparezca la siguiente.",
+"Combien de temps chaque image reste à l'écran avant que la suivante apparaisse en fondu.",
+"Quanto resta ogni immagine sullo schermo prima che appaia la successiva.",
+"Quanto tempo cada imagem fica no ecrã antes de surgir a seguinte.",
+"Hoe lang elke afbeelding in beeld blijft voordat de volgende verschijnt.",
+"Her resmin, sonrakinin belirmesinden önce ekranda kalma süresi.",
+"अगली तस्वीर उभरने से पहले हर तस्वीर कितनी देर स्क्रीन पर रहे।"
+],
+"Softer blacks, slightly greyer whites and a darker bottom-right corner, like a print: good for paintings.": [
+"Weichere Schwarztöne, leicht grauere Weißtöne und eine dunklere Ecke unten rechts, wie ein Druck: gut für Gemälde.",
+"Negros más suaves, blancos algo más grises y una esquina inferior derecha más oscura, como una impresión: bueno para pinturas.",
+"Noirs plus doux, blancs un peu plus gris et coin inférieur droit plus sombre, comme une impression : idéal pour les peintures.",
+"Neri più morbidi, bianchi leggermente più grigi e un angolo in basso a destra più scuro, come una stampa: ottimo per i dipinti.",
+"Pretos mais suaves, brancos ligeiramente mais cinzentos e um canto inferior direito mais escuro, como uma impressão: bom para pinturas.",
+"Zachtere zwarttinten, iets grijzere witten en een donkerdere rechteronderhoek, zoals een print: goed voor schilderijen.",
+"Daha yumuşak siyahlar, biraz daha gri beyazlar ve daha koyu sağ alt köşe, baskı gibi: resimler için iyi.",
+"नरम काले, थोड़े धूसर सफ़ेद और नीचे दाएं कोने में गहरा रंग, प्रिंट की तरह: चित्रों के लिए अच्छा।"
+],
+"The face StandBy opens on: Digital, Analog, Calendar, Solar, Photos, Weather, Fade or Flow, or the one you used last. Left and Right change it while StandBy is up.": [
+"Das Zifferblatt, mit dem StandBy startet: Digital, Analog, Kalender, Sonne, Fotos, Wetter, Überblendung oder Fluss, oder das zuletzt verwendete. Links und Rechts wechseln es, während StandBy läuft.",
+"La cara con la que abre StandBy: Digital, Analógico, Calendario, Solar, Fotos, Tiempo, Fundido o Flujo, o la última usada. Izquierda y Derecha la cambian mientras StandBy está activo.",
+"Le cadran sur lequel StandBy s'ouvre : Numérique, Analogique, Calendrier, Solaire, Photos, Météo, Fondu ou Flux, ou le dernier utilisé. Gauche et Droite le changent pendant StandBy.",
+"Il quadrante con cui si apre StandBy: Digitale, Analogico, Calendario, Solare, Foto, Meteo, Dissolvenza o Flusso, oppure l'ultimo usato. Sinistra e Destra lo cambiano mentre StandBy è attivo.",
+"O mostrador com que o StandBy abre: Digital, Analógico, Calendário, Solar, Fotos, Tempo, Desvanecimento ou Fluxo, ou o último utilizado. Esquerda e Direita alteram-no enquanto o StandBy está ativo.",
+"De wijzerplaat waarmee StandBy opent: Digitaal, Analoog, Kalender, Zon, Foto's, Weer, Vervagen of Stroom, of de laatst gebruikte. Links en Rechts wisselen hem terwijl StandBy actief is.",
+"StandBy'ın açıldığı yüz: Dijital, Analog, Takvim, Güneş, Fotoğraflar, Hava durumu, Solma veya Akış ya da en son kullandığınız. StandBy açıkken Sol ve Sağ onu değiştirir.",
+"StandBy किस फेस पर खुले: डिजिटल, एनालॉग, कैलेंडर, सौर, फ़ोटो, मौसम, फ़ेड या फ़्लो, या आखिरी इस्तेमाल किया हुआ। StandBy चालू रहते बाएं और दाएं इसे बदलते हैं।"
+],
+"The colour of the clock figures and accents. Up and Down change it while StandBy is up.": [
+"Die Farbe der Uhrziffern und Akzente. Hoch und Runter ändern sie, während StandBy läuft.",
+"El color de los dígitos del reloj y los acentos. Arriba y Abajo lo cambian mientras StandBy está activo.",
+"La couleur des chiffres de l'horloge et des accents. Haut et Bas la changent pendant StandBy.",
+"Il colore delle cifre dell'orologio e degli accenti. Su e Giù lo cambiano mentre StandBy è attivo.",
+"A cor dos dígitos do relógio e dos acentos. Cima e Baixo alteram-na enquanto o StandBy está ativo.",
+"De kleur van de klokcijfers en accenten. Omhoog en Omlaag wijzigen die terwijl StandBy actief is.",
+"Saat rakamlarının ve vurguların rengi. StandBy açıkken Yukarı ve Aşağı onu değiştirir.",
+"घड़ी के अंकों और एक्सेंट का रंग। StandBy चालू रहते ऊपर और नीचे इसे बदलते हैं।"
+],
+"At night StandBy dims the screen and turns the figures red, as Apple's StandBy does in a dark room. Auto is 7 pm to 6 am.": [
+"Nachts dimmt StandBy den Bildschirm und färbt die Ziffern rot, wie Apples StandBy in einem dunklen Raum. Automatisch gilt von 19 bis 6 Uhr.",
+"De noche StandBy atenúa la pantalla y pone los dígitos en rojo, como el StandBy de Apple en una habitación oscura. Auto es de 19:00 a 6:00.",
+"La nuit, StandBy assombrit l'écran et rend les chiffres rouges, comme le StandBy d'Apple dans une pièce sombre. Auto va de 19 h à 6 h.",
+"Di notte StandBy attenua lo schermo e rende le cifre rosse, come lo StandBy di Apple in una stanza buia. Auto va dalle 19 alle 6.",
+"À noite o StandBy reduz o ecrã e torna os dígitos vermelhos, como o StandBy da Apple num quarto escuro. Auto vai das 19h às 6h.",
+"'s Nachts dimt StandBy het scherm en maakt de cijfers rood, zoals Apples StandBy in een donkere kamer. Auto is van 19:00 tot 6:00.",
+"Geceleri StandBy ekranı karartır ve rakamları kırmızı yapar, Apple'ın StandBy'ının karanlık odada yaptığı gibi. Otomatik 19:00 ile 06:00 arasıdır.",
+"रात में StandBy स्क्रीन को धीमा कर अंकों को लाल कर देता है, जैसे अंधेरे कमरे में Apple का StandBy। ऑटो शाम 7 से सुबह 6 बजे तक है।"
+],
+"Show the photo screensaver or StandBy full screen at once, whichever is chosen above. Press OK to return.": [
+"Zeigt sofort den Foto-Bildschirmschoner oder StandBy im Vollbild, je nach Auswahl oben. Mit OK zurück.",
+"Muestra al instante el salvapantallas de fotos o StandBy a pantalla completa, según lo elegido arriba. Pulsa OK para volver.",
+"Affiche aussitôt l'économiseur de photos ou StandBy en plein écran, selon le choix ci-dessus. Appuyez sur OK pour revenir.",
+"Mostra subito lo screensaver di foto o StandBy a schermo intero, secondo la scelta qui sopra. Premi OK per tornare.",
+"Mostra de imediato o protetor de ecrã de fotos ou o StandBy em ecrã inteiro, conforme escolhido acima. Prima OK para voltar.",
+"Toont meteen de fotoschermbeveiliging of StandBy op volledig scherm, naargelang de keuze hierboven. Druk op OK om terug te keren.",
+"Yukarıda seçilene göre fotoğraf ekran koruyucusunu veya StandBy'ı hemen tam ekran gösterir. Dönmek için Tamam'a basın.",
+"ऊपर चुने गए के अनुसार फ़ोटो स्क्रीनसेवर या StandBy को तुरंत पूरी स्क्रीन पर दिखाता है। लौटने के लिए OK दबाएं।"
+],
+"Removed from Favorites": [
+"Aus Favoriten entfernt",
+"Quitado de favoritos",
+"Retiré des favoris",
+"Rimosso dai preferiti",
+"Removido dos favoritos",
+"Verwijderd uit favorieten",
+"Favorilerden çıkarıldı",
+"पसंदीदा से हटाया गया"
+],
+"Added to Favorites": [
+"Zu Favoriten hinzugefügt",
+"Añadido a favoritos",
+"Ajouté aux favoris",
+"Aggiunto ai preferiti",
+"Adicionado aos favoritos",
+"Toegevoegd aan favorieten",
+"Favorilere eklendi",
+"पसंदीदा में जोड़ा गया"
+],
+"Couldn't start the screensaver (it needs the Homebrew Channel)": [
+"Bildschirmschoner konnte nicht gestartet werden (benötigt den Homebrew Channel)",
+"No se pudo iniciar el salvapantallas (requiere el Homebrew Channel)",
+"Impossible de lancer l'économiseur (nécessite le Homebrew Channel)",
+"Impossibile avviare lo screensaver (richiede l'Homebrew Channel)",
+"Não foi possível iniciar o protetor de ecrã (requer o Homebrew Channel)",
+"Schermbeveiliging kon niet starten (vereist het Homebrew Channel)",
+"Ekran koruyucu başlatılamadı (Homebrew Channel gerekir)",
+"स्क्रीनसेवर शुरू नहीं हो सका (Homebrew Channel ज़रूरी है)"
+],
+"Couldn't open LG Home": [
+"LG Home konnte nicht geöffnet werden",
+"No se pudo abrir LG Home",
+"Impossible d'ouvrir LG Home",
+"Impossibile aprire LG Home",
+"Não foi possível abrir o LG Home",
+"LG Home kon niet worden geopend",
+"LG Home açılamadı",
+"LG Home खोला नहीं जा सका"
+],
+"No copy of the settings found on the TV": [
+"Keine Kopie der Einstellungen auf dem TV gefunden",
+"No se encontró copia de los ajustes en el TV",
+"Aucune copie des réglages trouvée sur le téléviseur",
+"Nessuna copia delle impostazioni trovata sulla TV",
+"Nenhuma cópia das definições encontrada na TV",
+"Geen kopie van de instellingen op de tv gevonden",
+"TV'de ayarların kopyası bulunamadı",
+"टीवी पर सेटिंग्स की कोई कॉपी नहीं मिली"
+],
+"Couldn't read the settings copy (it needs the Homebrew Channel)": [
+"Einstellungskopie konnte nicht gelesen werden (benötigt den Homebrew Channel)",
+"No se pudo leer la copia de ajustes (requiere el Homebrew Channel)",
+"Impossible de lire la copie des réglages (nécessite le Homebrew Channel)",
+"Impossibile leggere la copia delle impostazioni (richiede l'Homebrew Channel)",
+"Não foi possível ler a cópia das definições (requer o Homebrew Channel)",
+"Kopie van de instellingen kon niet worden gelezen (vereist het Homebrew Channel)",
+"Ayar kopyası okunamadı (Homebrew Channel gerekir)",
+"सेटिंग्स की कॉपी पढ़ी नहीं जा सकी (Homebrew Channel ज़रूरी है)"
+],
+"Immich is not set up yet: put the server address and API key in /var/lib/homehook/immich.json on the TV (docs/immich.md)": [
+"Immich ist noch nicht eingerichtet: Serveradresse und API-Schlüssel in /var/lib/homehook/immich.json auf dem TV eintragen (docs/immich.md)",
+"Immich aún no está configurado: pon la dirección del servidor y la clave API en /var/lib/homehook/immich.json del TV (docs/immich.md)",
+"Immich n'est pas encore configuré : placez l'adresse du serveur et la clé API dans /var/lib/homehook/immich.json sur le téléviseur (docs/immich.md)",
+"Immich non è ancora configurato: inserisci indirizzo del server e chiave API in /var/lib/homehook/immich.json sulla TV (docs/immich.md)",
+"O Immich ainda não está configurado: coloque o endereço do servidor e a chave API em /var/lib/homehook/immich.json na TV (docs/immich.md)",
+"Immich is nog niet ingesteld: zet het serveradres en de API-sleutel in /var/lib/homehook/immich.json op de tv (docs/immich.md)",
+"Immich henüz kurulmadı: sunucu adresini ve API anahtarını TV'deki /var/lib/homehook/immich.json dosyasına yazın (docs/immich.md)",
+"Immich अभी सेट नहीं है: सर्वर का पता और API कुंजी टीवी पर /var/lib/homehook/immich.json में डालें (docs/immich.md)"
+],
+"Couldn't close the app": [
+"App konnte nicht geschlossen werden",
+"No se pudo cerrar la app",
+"Impossible de fermer l'app",
+"Impossibile chiudere l'app",
+"Não foi possível fechar a app",
+"App kon niet worden gesloten",
+"Uygulama kapatılamadı",
+"ऐप बंद नहीं हो सका"
+],
+"All apps closed": [
+"Alle Apps geschlossen",
+"Todas las apps cerradas",
+"Toutes les apps fermées",
+"Tutte le app chiuse",
+"Todas as apps fechadas",
+"Alle apps gesloten",
+"Tüm uygulamalar kapatıldı",
+"सभी ऐप बंद हो गए"
+],
+"Couldn't close the apps": [
+"Apps konnten nicht geschlossen werden",
+"No se pudieron cerrar las apps",
+"Impossible de fermer les apps",
+"Impossibile chiudere le app",
+"Não foi possível fechar as apps",
+"Apps konden niet worden gesloten",
+"Uygulamalar kapatılamadı",
+"ऐप बंद नहीं हो सके"
+],
+"Weather place: Auto": [
+"Wetterort: Automatisch",
+"Lugar del tiempo: Automático",
+"Lieu météo : Auto",
+"Luogo meteo: Automatico",
+"Local do tempo: Automático",
+"Weerplaats: Automatisch",
+"Hava durumu yeri: Otomatik",
+"मौसम का स्थान: ऑटो"
+],
+"OK adds or removes an item · Hold OK to re-order · Back returns": [
+"OK fügt hinzu oder entfernt · OK halten zum Umsortieren · Zurück kehrt zurück",
+"OK añade o quita un elemento · Mantén OK para reordenar · Atrás vuelve",
+"OK ajoute ou retire un élément · Maintenez OK pour réordonner · Retour revient",
+"OK aggiunge o rimuove un elemento · Tieni premuto OK per riordinare · Indietro torna",
+"OK adiciona ou remove um item · Manter OK para reordenar · Voltar regressa",
+"OK voegt toe of verwijdert een item · OK ingedrukt houden om te herschikken · Terug keert terug",
+"Tamam öğe ekler veya kaldırır · Sıralamak için Tamam'a basılı tutun · Geri döner",
+"OK आइटम जोड़ता या हटाता है · क्रम बदलने के लिए OK दबाए रखें · वापस लौटता है"
+],
+"Left and right change category · OK sets the wallpaper · hold OK adds it to Favorites · Back returns": [
+"Links und Rechts wechseln die Kategorie · OK setzt den Hintergrund · OK halten fügt zu Favoriten hinzu · Zurück kehrt zurück",
+"Izquierda y derecha cambian de categoría · OK fija el fondo · mantén OK para añadir a favoritos · Atrás vuelve",
+"Gauche et droite changent de catégorie · OK définit le fond · maintenez OK pour ajouter aux favoris · Retour revient",
+"Sinistra e destra cambiano categoria · OK imposta lo sfondo · tieni premuto OK per aggiungere ai preferiti · Indietro torna",
+"Esquerda e direita mudam de categoria · OK define o fundo · manter OK adiciona aos favoritos · Voltar regressa",
+"Links en rechts wisselen van categorie · OK stelt de achtergrond in · OK ingedrukt houden voegt toe aan favorieten · Terug keert terug",
+"Sol ve sağ kategoriyi değiştirir · Tamam duvar kâğıdını ayarlar · Tamam'a basılı tutmak favorilere ekler · Geri döner",
+"बाएं और दाएं श्रेणी बदलते हैं · OK वॉलपेपर सेट करता है · OK दबाए रखने पर पसंदीदा में जुड़ता है · वापस लौटता है"
+],
+"Couldn't change the backlight": [
+"Hintergrundbeleuchtung konnte nicht geändert werden",
+"No se pudo cambiar la retroiluminación",
+"Impossible de changer le rétroéclairage",
+"Impossibile cambiare la retroilluminazione",
+"Não foi possível alterar a retroiluminação",
+"Achtergrondverlichting kon niet worden gewijzigd",
+"Arka ışık değiştirilemedi",
+"बैकलाइट बदली नहीं जा सकी"
+],
+"Couldn't change Eye Comfort": [
+"Augenkomfort konnte nicht geändert werden",
+"No se pudo cambiar Confort visual",
+"Impossible de changer le Confort visuel",
+"Impossibile cambiare Comfort visivo",
+"Não foi possível alterar o Conforto visual",
+"Oogcomfort kon niet worden gewijzigd",
+"Göz Konforu değiştirilemedi",
+"आई कम्फ़र्ट बदला नहीं जा सका"
+],
+"Couldn't turn the screen off (it needs the Homebrew Channel)": [
+"Bildschirm konnte nicht ausgeschaltet werden (benötigt den Homebrew Channel)",
+"No se pudo apagar la pantalla (requiere el Homebrew Channel)",
+"Impossible d'éteindre l'écran (nécessite le Homebrew Channel)",
+"Impossibile spegnere lo schermo (richiede l'Homebrew Channel)",
+"Não foi possível desligar o ecrã (requer o Homebrew Channel)",
+"Scherm kon niet worden uitgezet (vereist het Homebrew Channel)",
+"Ekran kapatılamadı (Homebrew Channel gerekir)",
+"स्क्रीन बंद नहीं हो सकी (Homebrew Channel ज़रूरी है)"
+],
+"Couldn't restart the TV (it needs the Homebrew Channel)": [
+"TV konnte nicht neu gestartet werden (benötigt den Homebrew Channel)",
+"No se pudo reiniciar el TV (requiere el Homebrew Channel)",
+"Impossible de redémarrer le téléviseur (nécessite le Homebrew Channel)",
+"Impossibile riavviare la TV (richiede l'Homebrew Channel)",
+"Não foi possível reiniciar a TV (requer o Homebrew Channel)",
+"Tv kon niet worden herstart (vereist het Homebrew Channel)",
+"TV yeniden başlatılamadı (Homebrew Channel gerekir)",
+"टीवी रीस्टार्ट नहीं हो सका (Homebrew Channel ज़रूरी है)"
+],
+"This TV didn't accept that sound mode": [
+"Dieser TV hat diesen Klangmodus nicht akzeptiert",
+"Este TV no aceptó ese modo de sonido",
+"Ce téléviseur n'a pas accepté ce mode son",
+"Questa TV non ha accettato quella modalità audio",
+"Esta TV não aceitou esse modo de som",
+"Deze tv accepteerde die geluidsmodus niet",
+"Bu TV o ses modunu kabul etmedi",
+"इस टीवी ने वह साउंड मोड स्वीकार नहीं किया"
+],
+"Couldn't set the sleep timer": [
+"Schlaf-Timer konnte nicht gesetzt werden",
+"No se pudo ajustar el temporizador de apagado",
+"Impossible de régler la minuterie de veille",
+"Impossibile impostare il timer di spegnimento",
+"Não foi possível definir o temporizador de suspensão",
+"Slaaptimer kon niet worden ingesteld",
+"Uyku zamanlayıcısı ayarlanamadı",
+"स्लीप टाइमर सेट नहीं हो सका"
+],
+"Settings has more. Settings > System > Apple TV defaults resets everything to how tvOS 27 starts.": [
+"Die Einstellungen bieten mehr. Einstellungen > System > Apple-TV-Standardwerte setzt alles auf den Start von tvOS 27 zurück.",
+"Ajustes tiene más. Ajustes > Sistema > Valores de Apple TV lo deja todo como arranca tvOS 27.",
+"Les Réglages offrent plus. Réglages > Système > Réglages Apple TV par défaut remet tout comme au démarrage de tvOS 27.",
+"Le Impostazioni offrono di più. Impostazioni > Sistema > Impostazioni Apple TV predefinite ripristina tutto come all'avvio di tvOS 27.",
+"As Definições têm mais. Definições > Sistema > Predefinições do Apple TV repõe tudo como o tvOS 27 arranca.",
+"Instellingen heeft meer. Instellingen > Systeem > Apple TV-standaarden zet alles terug zoals tvOS 27 start.",
+"Ayarlar'da daha fazlası var. Ayarlar > Sistem > Apple TV varsayılanları her şeyi tvOS 27'nin başlangıcına döndürür.",
+"सेटिंग्स में और भी है। सेटिंग्स > सिस्टम > Apple TV डिफ़ॉल्ट सब कुछ tvOS 27 की शुरुआत जैसा कर देता है।"
+],
+"Good morning": [
+"Guten Morgen",
+"Buenos días",
+"Bonjour",
+"Buongiorno",
+"Bom dia",
+"Goedemorgen",
+"Günaydın",
+"सुप्रभात"
+],
+"Good afternoon": [
+"Guten Tag",
+"Buenas tardes",
+"Bon après-midi",
+"Buon pomeriggio",
+"Boa tarde",
+"Goedemiddag",
+"İyi günler",
+"नमस्कार"
+],
+"Good evening": [
+"Guten Abend",
+"Buenas noches",
+"Bonsoir",
+"Buonasera",
+"Boa noite",
+"Goedenavond",
+"İyi akşamlar",
+"शुभ संध्या"
+]
+}

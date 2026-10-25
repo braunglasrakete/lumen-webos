@@ -10,8 +10,17 @@ This repository holds patch scripts, notes and TV-side scripts. The material bel
 | [Simple Icons](https://simpleicons.org) glyph paths | CC0 | `tools/glyphs.json`, used to draw some app tiles |
 | Wallpaper catalogue (`tools/catalog.json`) | links and titles only | points to pictures on Reddit's image host and to their posts; the pictures belong to their authors and are loaded from the internet, not stored here |
 | Video wallpaper (`tools/wallpaperVideos.ts`) | links only | streams [Mixkit](https://mixkit.co/license/#videoFree) free stock videos (free use, no attribution needed) and Apple's tvOS aerial screensaver videos from Apple's own server; nothing is stored here or on the TV, and the videos belong to their makers |
-| [samrenfrew/lumen-webos](https://github.com/samrenfrew/lumen-webos) | MIT, © samrenfrew | the new Control Center and the new home screen look (`apply_controlcenter2.py`, `apply_homenew.py`), ported behind switches in Settings > Options |
 | Weather | [Open-Meteo](https://open-meteo.com) (CC BY 4.0), location from [ipwho.is](https://ipwho.is) | optional date/weather line |
 
 App icons, logos and names of third-party apps are trademarks of their owners. They are not included in this repository and this project is not
 affiliated with or endorsed by them, or by LG Electronics, Apple Inc. or Samsung. "LG" and "webOS" are trademarks of LG Electronics.
+
+## Sam Renfrew's fork
+
+Later additions from the same fork (MIT), October 2026: the wallpaper dimming options, the App Store tile, the uninstall menu entry, moving a lifted app a row at a time and the number keys (`tools/apply_wpdim.py`, `tools/apply_samsmall.py`, `tools/apply_editmode.py`), the Homebrew Channel repository generator and release workflow (`tools/gen_hbc_repo.py`, `.github/workflows/release.yml`), the wake tool's logic (`tools/tv/wake-open.sh`) and the notes in `docs/prior-art.md` and `docs/power-on.md`.
+
+The canvas backdrops for the lower rows and Settings (`lib/blurCanvas.ts`), the open-app dot, the Art and Landscapes wallpaper lists and their generator (`tools/harvest_open.py`, `tools/build_catalog.py`) come from <https://github.com/samrenfrew/lumen-webos> (MIT). The frame-rate findings behind them are in that fork's `docs/down-up-lag-review.md`. Art pictures are public-domain paintings (Cleveland Museum of Art, Met); Landscapes are Wikimedia Commons pictures under their own licences, with the credit kept in the list.
+
+## xcv58's PR #8
+
+Two small pieces of the webOS 5 launcher trial in PR #8 by [xcv58](https://github.com/xcv58) were taken over by hand: the app icon drawn in pieces, and "Input Source N" shown as "HDMI N" (`tools/apply_webos5.py`). The rest of that PR was not merged. Thank you.
