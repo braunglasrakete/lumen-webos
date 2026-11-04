@@ -2178,5 +2178,45 @@
 "Een stipje boven apps die op de achtergrond openstaan.",
 "Arka planda açık olan uygulamaların üstünde bir nokta.",
 "बैकग्राउंड में खुले ऐप्स के ऊपर एक बिंदु।"
+],
+"Refresh app icons": [
+"App-Symbole aktualisieren",
+"Actualizar iconos de apps",
+"Actualiser les icônes des apps",
+"Aggiorna icone delle app",
+"Atualizar ícones das apps",
+"App-pictogrammen vernieuwen",
+"Uygulama simgelerini yenile",
+"ऐप आइकन रीफ़्रेश करें"
+],
+"Refresh": [
+"Aktualisieren",
+"Actualizar",
+"Actualiser",
+"Aggiorna",
+"Atualizar",
+"Vernieuwen",
+"Yenile",
+"रीफ़्रेश"
+],
+"Reads the icons of all apps from the TV again. Use it after an app has been updated and still shows its old icon.": [
+"Liest die Symbole aller Apps erneut vom TV ein. Nutze das, wenn eine App aktualisiert wurde und noch ihr altes Symbol zeigt.",
+"Vuelve a leer del TV los iconos de todas las apps. Úsalo cuando una app se haya actualizado y siga mostrando su icono antiguo.",
+"Relit depuis le téléviseur les icônes de toutes les apps. À utiliser après la mise à jour d'une app qui affiche encore son ancienne icône.",
+"Rilegge dalla TV le icone di tutte le app. Usalo dopo l'aggiornamento di un'app che mostra ancora la vecchia icona.",
+"Volta a ler da TV os ícones de todas as apps. Use após atualizar uma app que ainda mostra o ícone antigo.",
+"Leest de pictogrammen van alle apps opnieuw van de tv. Gebruik dit nadat een app is bijgewerkt en nog zijn oude pictogram toont.",
+"Tüm uygulamaların simgelerini TV'den yeniden okur. Bir uygulama güncellendikten sonra hâlâ eski simgesini gösteriyorsa kullanın.",
+"सभी ऐप के आइकन टीवी से फिर पढ़ता है। किसी ऐप के अपडेट होने के बाद भी पुराना आइकन दिखे तो इसका उपयोग करें।"
+],
+"App icons refreshed": [
+"App-Symbole aktualisiert",
+"Iconos de apps actualizados",
+"Icônes des apps actualisées",
+"Icone delle app aggiornate",
+"Ícones das apps atualizados",
+"App-pictogrammen vernieuwd",
+"Uygulama simgeleri yenilendi",
+"ऐप आइकन रीफ़्रेश हो गए"
 ]
 }
